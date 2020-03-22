@@ -4,8 +4,11 @@
 
 ### Features and issues found in previous designs
 
+[Rice University Mechanical Engineering Model](http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096)
 - Great features found in the Rice Design - Easy to use 3 button adjustment scheme (Tidal volume + -), High low pressure alerting, mostly NC fabrication methods, Compact and light.
 - Issues found with the Rice Design - Multi Material (Complex construction), Seemingly fragile components, Unventilated/cooled electronics, low humidity tolerance, No proper open source files.
+
+[MIT Research Group Design](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf) comprising of the following persons (Abdul Mohsen Al Husseini, Heon Ju Lee, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum and Jussi Saukkonen).
 - Great features found in the MIT Design - Ultra reliable cam actuation mechanism, simple/repeatable motor diver circuit, Similar Easy to use 3 button schema, Hermetically sealed.
 - Issues found with the MIT Design - Multi Material (Complex construction), Overtly robust/substantial, Some specialty parts.
 
