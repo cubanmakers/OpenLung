@@ -3,7 +3,7 @@
 Welcome to the Open Source Ventilator Project.  We are always very happy to have contributions, whether for trivial cleanups or big new features.
 This project can use your help! We need help designing mechanical parts, electronics, firmware and user experience.
 We also strongly value documentation and gladly accept improvements to the documentation.
-If you have questions regarding documentation or would like to know specifics on how you can contribute, please visit the issues tracker on the left in GitLab.
+If you have questions regarding documentation or would like to know specifics on how you can contribute, please visit the issues tracker on the left in Git.
 
 # How To Join in Development:
 1. Fill out our Expression of Interest Form [here](https://opensourceventilator.ie/register) if you haven't already.
@@ -30,6 +30,8 @@ We use the fork/merge process, rather than maintaining multiple protected branch
    - Clone your repo to your local device, making changes there.
    - Push any changes you make to your forked repo on GitLab.
    - Request a merge with the main repo and it will be reviewed by a member of the team.
+   - NOTE: Please remember to mention the Issue number in your commit comments so it will automatically close your issue once it's merged.  
+   * For example, if you commit satisfies issue 27, you just need to include: #27 *
 
 ### Resources for GitLab:
     - [GitLab Training Path](https://about.gitlab.com/training/#gitlab)
@@ -41,7 +43,7 @@ We use the fork/merge process, rather than maintaining multiple protected branch
    - docs: [requirements](requirements/)
    - bugs: [issue tracker](https://gitlab.com/open-source-ventilator/OpenLung/-/issues)
    - comms: [OSV Slack](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA)
-   - versioning info:
+   - versioning info: [Versioning Doc](VersioningHowTo.md)
 
 ## Testing
 WIP:
