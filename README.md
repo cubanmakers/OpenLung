@@ -59,7 +59,7 @@ Simplify the existing designs and improve on component reliability for a low-cos
 - Project Requirements are listed [here](requirements/design-requirements.md).
 
 # Project Progress
-![Current Mechanical Concept](images/CONCEPT_6_MECH.png)
+![Current Mechanical Concept](concepts/Concept6/models/FDM/6A1/CONCEPT_6_MECH.png)
 *Current Design Concept 6 with known issues*
 
 ## See live Whimsical flow chart [here](https://whimsical.com/4mai9JtqTHAGu6i6qz8Hyy)
