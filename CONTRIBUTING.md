@@ -5,6 +5,8 @@ This project can use your help! We need help designing mechanical parts, electro
 We also strongly value documentation and gladly accept improvements to the documentation.
 If you have questions regarding documentation or would like to know specifics on how you can contribute, please visit the issues tracker on the left in Git.
 
+*If you are seeking to contribute financially or by utilizing corporate resources, please reach out via slack to the project management team and we will be happy to direct you to the appropriate people.*
+
 # How To Join in Development:
 1. Fill out our Expression of Interest Form [here](https://opensourceventilator.ie/register) if you haven't already.
 *This step is mandatory and it’s how we will find you to match your skills to areas you can help. If you have fabrication equipment, also fill out this form.*

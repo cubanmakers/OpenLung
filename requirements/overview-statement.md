@@ -29,7 +29,6 @@ Simplify the design and improve on component reliability for a low-cost Bag Valv
 - Must be adaptable to both invasive tubing and masks
 
 ### Assumptions, Risks, Obstacles
-- Assume core team is Trevor Smale, David Graham, Colin Keogh, Andrew Finkle
-- Assume just improving on MIT research group and Rice University Mechanical Engineering student group AmbuBag based emergency respirator.
-- Assume facebook page is replaced by slack channel. Communication is an obstacle due to volume of messages.
+- Assume improving on MIT research group and Rice University Mechanical Engineering student group AmbuBag based emergency respirator based on known issues with those designs.
+- Assume communication to take place via slack channel. Communication is an obstacle due to volume of messages.
 - Assume gitlab page is primary source of documents and information.
