@@ -33,11 +33,11 @@ We use the fork/merge process, rather than maintaining multiple protected branch
    - Push any changes you make to your forked repo on GitLab.
    - Request a merge with the main repo and it will be reviewed by a member of the team.
    - NOTE: Please remember to mention the Issue number in your commit comments so it will automatically close your issue once it's merged.  
-   * For example, if you commit satisfies issue 27, you just need to include: #27 *
+   **For example, if you commit satisfies issue 27, you just need to include: #27**
 
 ### Resources for GitLab:
-    - [GitLab Training Path](https://about.gitlab.com/training/#gitlab)
-    - [How to Submit a Merge Request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
+  - [GitLab Training Path](https://about.gitlab.com/training/#gitlab)
+  - [How to Submit a Merge Request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
 
 
 ## Short Links to Important Resources:
@@ -48,7 +48,7 @@ We use the fork/merge process, rather than maintaining multiple protected branch
    - versioning info: [Versioning Doc](VersioningHowTo.md)
 
 ## Testing
-WIP:
+**This section is a work in progress**
 Testing: how to test software components
 
 ### Our Pledge
