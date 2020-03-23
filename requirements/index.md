@@ -72,7 +72,7 @@ FDO2 - Flow delivered O2. The flow of O2 at the patient mask.
 
 FiO2 - Flow (inspired) O2. The O2 in the patient.
 
-![System overview](/images/ventilator_system_overview.png "image_tooltip")
+![System overview](images/ventilator_system_overview.png "image_tooltip")
 
     Fig. 1: System overview
 
