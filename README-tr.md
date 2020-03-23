@@ -6,7 +6,7 @@ Diğer diller için:
 |---|---|---|---|---|---|
 |[english](README.md)|[català](README-ca.md)|[deutsch](README-de.md)|[español](README-es.md)|[français](README-fr.md)|[日本語](README-ja.md)|
 |[nederlands](README-nl.md)|[polski](README-pl.md)|[português](README-pt_BR.md)|[Русский](README-ru.md)|[svenska](README-sv.md)|[türkçe](README-tr.md)|
-|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|---|---|---|---| 
+|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|---|---|---|---|
 
 # Düşük  Gereksinimli  Torba/Bag Valf Maskesi (BVM) Solunum Destek Cihazı
 
@@ -27,8 +27,17 @@ Diğer diller için:
 4. Eğer bir an önce kendiniz başlamak istiyorsanız, bu proje açık kaynak olduğu için tek yapmanız gereken  depoyu kopyalamanız  ve hemen üzerinde çalışmaya başlamanızdır.
 
 # Proje Gereksinimleri
-- Proje gereksinimlerine  [buradan (İngilizce)](requirements/design-requirements.md) erişebilirsiniz.
+- Proje gereksinimlerine [buradan (Türkçe)](requirements/design-requirements-tr.md) veya  [buradan (İngilizce)](requirements/design-requirements.md)  erişebilirsiniz.
 
 # Projenin Geçtiği Aşamalar
 ![Current Mechanical Concept](images/CONCEPT_6_MECH.png)
-*Bilin sorunları olan 6. Güncel Tasarım Konsepti   *
+*Bilinen sorunları olan 6. Güncel Tasarım Konsepti   *
+
+## Canli  Whimsical akış şeması [burada](https://whimsical.com/4mai9JtqTHAGu6i6qz8Hyy)
+
+# Önerilen araçlar
+- [A360](https://www.autodesk.com/products/a360/features) - A360 proje işbirliği yazılımı, proje ekiplerinin dosyalar ortak bir merkezde görmelerini, paylaşmalarını, bulmalarını ve incelemelerini sağlar.
+- [Fusion 360](https://www.autodesk.com/products/fusion-360/mechanical-engineer)
+- [FreeCADWeb](https://www.freecadweb.org/) - Üçretsiz 3D parametrik modelleme
+- [Artrage](http://www.artrage.com/) - Masaüstünde çizim
+- [Algodoo](http://www.algodoo.com/) - Tasarımın fiziksel ve hareketsel davranışını simüle etmek için güzel bir yazılım. Oyun gibi olmasına rağmen yetenekleri daha derinlere gidiyor.
