@@ -2,11 +2,11 @@
 
 此文档的其他语言版本：
 
-|Currently|Available|Languages|   |   |   |
+| Currently | Available | Languages |   |   |   |
 |---|---|---|---|---|---|
-|[english](README.md)|[català](README-ca.md)|[deutsch](README-de.md)|[español](README-es.md)|[français](README-fr.md)|[日本語](README-ja.md)|
-|[nederlands](README-nl.md)|[polski](README-pl.md)|[português](README-pt_BR.md)|[Русский](README-ru.md)|[svenska](README-sv.md)|[türkçe](README-tr.md)|
-|[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)|---|---|---|---| 
+|[english](README.md) | [català](README-ca.md) | [deutsch](README-de.md) | [español](README-es.md) | [français](README-fr.md) | [日本語](README-ja.md) |
+| [nederlands](README-nl.md) | [polski](README-pl.md) | [português](README-pt_BR.md) | [Română](README-ro.md) | [Русский](README-ru.md) | [svenska](README-sv.md) |
+| [türkçe](README-tr.md) | [汉语](README-zh-Hans.md) | [漢語](README-zh-Hant.md) |---|---|---|
 
 # 低成本袋阀面罩（BVM）呼吸机
 
