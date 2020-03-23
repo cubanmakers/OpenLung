@@ -13,7 +13,7 @@
 
 
 PEEP - Positive End Expiratory Pressure
-Fio2 - Fraction of Expired Oxygen - 
+Fio2 - Fraction of Expired Oxygen -
 Fso2 - From O2 tank or wall fixture - Supplimental oxygen
 Fdo2 - Fraction of Delivered oxygen - How much got to the patient
 
@@ -23,11 +23,10 @@ Fdo2 - Fraction of Delivered oxygen - How much got to the patient
 2. One way check valve (Disk type) allowing Room air to enter in the event of heavy negative pressure
 3. One way check valve (Disk type) preventing too much flow into the patient or too much positive pressure
 
-## Helpfull Videos
+## Helpful Videos
 
 - [PEEP Valves and Diverters](https://www.youtube.com/watch?v=Douv4EPk_jA)
 
 - [Oxygenation Understanding your BVM Device](https://www.youtube.com/watch?v=-ksxZeKpbjw)
 
 - [Oxygenation -Understanding your BVM Device 2](https://www.youtube.com/watch?v=PJiRABugTfg)
-
