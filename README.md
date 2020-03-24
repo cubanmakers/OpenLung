@@ -1,4 +1,4 @@
-![Logo](images/OL_BANNER.png)
+![Logo](images/OL_BANNER.png =250x)
 
 ## Managed By
 OS Ventilator Ireland Community
