@@ -1,4 +1,5 @@
-![Logo](images/OL_BANNER.png =250x)
+<img src='images/OL_BANNER.png' height="300"></img>
+
 
 ## Managed By
 OS Ventilator Ireland Community
