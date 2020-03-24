@@ -1,5 +1,5 @@
-# Concept 6
-## NC Sandwich Pully Concept
+# Concept 6 - RETIRED
+## NC Sandwich Pulley Concept
 
 ### Notes:
 - Removes custom 3D parts
