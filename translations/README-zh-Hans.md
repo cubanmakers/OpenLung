@@ -22,7 +22,7 @@
 1. 如果尚未填写，请在[此处](https://opensourceventilator.ie/register)填写我们的兴趣表达表。*这是必不可少的步骤，我们以此将您的技能与您可以帮忙的领域相匹配。如果您有制造设备，也请填写此表格。*
 2. 我们如果需要您的技能，将与您联系，然后请检查以下内容：
 -- 在我们的网站 [Open Source Ventilators Ireland](https://opensourceventilator.ie/) 和我们的社交频道上了解该项目的最新信息。
--- 加入我们的 [Slack Channel](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA) 以加入对话。那里正在进行许多其他附带项目。
+-- 加入我们的 [Slack Channel](https://join.slack.com/t/osventilator/shared_invite/zt-czh5mtpg-z2QZX1xbxAmueOgSgy1tZw) 以加入对话。那里正在进行许多其他附带项目。
 3. 学习如何最好地为本仓库做出贡献，从而熟悉 git。网上有很多资源，您可以从 [这里](https://www.youtube.com/watch?v=enMumwvLAug) 开始或从 [这里](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) 了解如何提交合并请求。
 1. 如果您急着想要开发，这是开源的，请 fork 此仓库并继续前进！
 

@@ -19,7 +19,7 @@
 1. Rellena nuestro Formulario de muestra de interés [aquí](https://opensourceventilator.ie/register) si aún no lo has hecho.
 *Este paso es obligatorio y es cómo te encontraremos para usar tus habilidades en las áreas en las que puedas ayudar. Si tiene equipo de fabricación, también completa este formulario.*
 2. Nos comunicaremos contigo en cuanto te necesitemos, hasta entonces, consulta lo siguiente:
--- Manténte al día con el proyecto en nuestro sitio web [Open Source Ventilators Ireland](https://opensourceventilator.ie/) y nuestras [Redes Sociales](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA).
+-- Manténte al día con el proyecto en nuestro sitio web [Open Source Ventilators Ireland](https://opensourceventilator.ie/) y nuestras [Redes Sociales](https://join.slack.com/t/osventilator/shared_invite/zt-czh5mtpg-z2QZX1xbxAmueOgSgy1tZw).
 -- Únete a nuestro Slack Channel para participar en la conversación. Muchos otros proyectos paralelos están sucediendo allí.
 3. Familiarízate con git aprendiendo cómo contribuir mejor en este repositorio. Hay muchos recursos disponibles en línea, puedes comenzar [aquí](https://www.youtube.com/watch?v=enMumwvLAug) o aprender cómo enviar una solicitud de fusión [aquí](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
 4. Si estás deseando empezar, esto es de código abierto, ¡Anímate!

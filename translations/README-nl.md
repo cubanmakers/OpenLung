@@ -21,7 +21,7 @@ Dit document in andere talen:
 *Deze stap is verplicht en is de manier waarop we je kunnen vinden om je vaardigheden te koppelen aan gebieden waar je kan helpen. Als je fabricageapparatuur hebt, vul dan ook dit formulier in.*
 2. We zullen contact opnemen als jouw genoteerde vaardigheden nodig zijn. Tot die tijd:
  - Blijf op de hoogte met het project op onze website [Open Source Beademingsapparaat Ierland](https://opensourceventilator.ie/) en onze socialemediakanalen.
- - Wordt lid van ons [Slack kanaal](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA) om deel te nemen aan het gesprek. Veel andere aanverwante projecten vinden daar plaats.
+ - Wordt lid van ons [Slack kanaal](https://join.slack.com/t/osventilator/shared_invite/zt-czh5mtpg-z2QZX1xbxAmueOgSgy1tZw) om deel te nemen aan het gesprek. Veel andere aanverwante projecten vinden daar plaats.
 3. Raak bekend met git door te leren hoe best bij te dragen aan deze repository. Er zijn veel informatiebronnen beschikbaar online, je kan [hier](https://www.youtube.com/watch?v=enMumwvLAug) beginnen or [here](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) leren hoe een merge request aan te maken.
 4. Als je angstig bent en aan de slag wilt, dit is open source, maak a.u.b. een fork van deze repository en ga ervoor!
 

@@ -24,7 +24,7 @@ Se você gostaria de ajudar com a tradução desta documentação, clique aqui.
 *Isso é necessário pra sabermos como combinar as suas skills em áreas específicas. Se você tem algum equipamento de fabricação, também preencha esse mesmo formulário.*
 2. Nós vamos entrar em contato com você assim que as suas habilidades forem necessárias. Até isso acontecer, dê uma lida nesses tópicos:
 -- Esteja em dia com o projeto no nosso site: [Open Source Ventilators Ireland](https://opensourceventilator.ie/) e nossos canais oficiais.
--- Junte-se ao nosso [canal de slack](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA) para intensificar as conversas. Há muitas outras iniciativas acontecendo ali.
+-- Junte-se ao nosso [canal de slack](https://join.slack.com/t/osventilator/shared_invite/zt-czh5mtpg-z2QZX1xbxAmueOgSgy1tZw) para intensificar as conversas. Há muitas outras iniciativas acontecendo ali.
 3. Esteja familiarizado com `git` para que possa contribuir melhor com esse repositório. Há muitos guias online (inclusive em portugês). Você pode começar por [aqui](https://www.youtube.com/watch?v=enMumwvLAug) ou aprender como fazer um merge request [aqui](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
 4. Se estiver aflito para ajudar, esse é um projeto open-source (código aberto), então basta fazer um fork e começar!
 

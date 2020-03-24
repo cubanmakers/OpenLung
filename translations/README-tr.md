@@ -22,7 +22,7 @@ Diğer diller için:
 *Sizin yeteneklerinizle ihtiyaçlarımızı eşleştirebilmek için bu adım zorunludur. Eğer üretim yapabilecek imalat ekipmanınız varsa da bu formu doldurun.*
 2. Yeteneklerinize ihtiyacımız olduğunda size ulaşacağız. O zamana kadar lütfen aşağıdaki maddeleri gerçekleştirin:
 -- Websayfamızı ( [Open Source Ventilators Ireland](https://opensourceventilator.ie/) / Açık Kaynak Solunum Destek Cihazları İrlanda) ve sosyal medya kanallarımızı takip ederek projenin gelişimi hakkında güncel bilgileden haberdar olun.
---  [Slack kanalımıza](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA) gelerek sohbete katılın. Burada  bir çok başka yan projelerimizi de bulabilirsiniz.
+--  [Slack kanalımıza](https://join.slack.com/t/osventilator/shared_invite/zt-czh5mtpg-z2QZX1xbxAmueOgSgy1tZw) gelerek sohbete katılın. Burada  bir çok başka yan projelerimizi de bulabilirsiniz.
 3. Git'i kullaranak bu depoya en  iyi nasıl katkıda bulunacagınızı anlamak için git'i tanımaya çalışın. İnternette bu konuda bir çok kaynak bulabilirsiniz. Örnegin [buradan (İngilizce)](https://www.youtube.com/watch?v=enMumwvLAug)  veya [buradan (Türkçe)](https://www.youtube.com/watch?v=rWG70T7fePg&list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) başlayabilir,  [buradan (İngilizce)](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) katkılarınızı birleştirme isteğini (merge) nasıl göndereceğinizi öğrenebilirsiniz.
 4. Eğer bir an önce kendiniz başlamak istiyorsanız, bu proje açık kaynak olduğu için tek yapmanız gereken  depoyu kopyalamanız  ve hemen üzerinde çalışmaya başlamanızdır.
 
