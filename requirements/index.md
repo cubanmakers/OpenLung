@@ -39,9 +39,9 @@ The OSV device is indicated:
 3. Patients will most commonly be experiencing acute respiratory distress (ARDs), they may or may not be spontaneously breathing and they are likely ventilator dependent.
 
 
-### Environments of use 
+### Environments of use
 
-AN OSV device can be used in three different environments. 
+AN OSV device can be used in three different environments.
 
 
 
@@ -62,7 +62,7 @@ Three common modes of control in Ventilators:
 
 Minute Ventilation (MV) = Tidal Volume (VT) x Respiratory Rate (RR)
 
-MV = amount of air a patient moves in a minute 
+MV = amount of air a patient moves in a minute
 
 MV can be 5 - 10 lpm in a normal patient but can be 30lpm in a sick patient
 
@@ -258,7 +258,7 @@ Cycling Mechanisms:
 ### Alarms
 1. There must be a visual display of an alarm situation. This must be visible from XXm.
 2. There must be an audio alarm, with continuous sound of YYdB.
-3. Alarms may be silenced, for a period of ZZ seconds, via the user interface. 
+3. Alarms may be silenced, for a period of ZZ seconds, via the user interface.
 4. If the underlying alarm condition has not been cleared, the alarm will sound again.
 
 There are 3 types of alarms:
@@ -385,10 +385,10 @@ Battery backup. ?? V, ?? Ah battery providing power to the entire system for 60 
 ### User Interface
 
 
-    What must be displayed? 
+    What must be displayed?
 
 
-    What is the minimum? 
+    What is the minimum?
 
 
     What’s nice to have?

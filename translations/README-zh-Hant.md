@@ -3,9 +3,10 @@ This project was jumpstarted by the COVID-19 global pandemic as a result of comm
 
 | Currently | Available | Languages |   |   |   |
 |---|---|---|---|---|---|
-|[english](README.md) | [català](README-ca.md) | [deutsch](README-de.md) | [español](README-es.md) | [français](README-fr.md) | [日本語](README-ja.md) |
-| [nederlands](README-nl.md) | [polski](README-pl.md) | [português](README-pt_BR.md) | [Română](README-ro.md) | [Русский](README-ru.md) | [svenska](README-sv.md) |
-| [türkçe](README-tr.md) | [汉语](README-zh-Hans.md) | [漢語](README-zh-Hant.md) |---|---|---|
+|[english](README.md) | [català](translations/README-ca.md) | [
+čeština](translations/README-cz.md)| [deutsch](translations/README-de.md) | [español](translations/README-es.md) | [français](translations/README-fr.md) |
+| [日本語](translations/README-ja.md) | [nederlands](translations/README-nl.md) | [polski](translations/README-pl.md) | [português](translations/README-pt_BR.md) | [Română](translations/README-ro.md) | [Русский](translations/README-ru.md) |
+| [svenska](translations/README-sv.md) | [türkçe](translations/README-tr.md) | [汉语](translations/README-zh-Hans.md) | [漢語](translations/README-zh-Hant.md) |---|---|
 
 More specifically in a discussion surrounding low cost AmbuBag based emergency respirators wherein prior solutions had been developed. The first from an MIT research group comprising of the following persons (Abdul Mohsen Al Husseini1, Heon Ju Lee1, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum and Jussi Saukkonen). The second device from a Rice University Mechanical Engineering student group comprising of the following persons (Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet and Karen Vasquez Ruiz. Photo by Jeff Fitlow).                   探討的主題是來自於過去開發研製低價位AmbuBag緊急用呼吸器的成果和經驗。第一個探討的項目其團隊是由MIT研究員所組成的，成員共有 Abdul Mohsen Al Husseini1, Heon Ju Lee1, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum and Jussi Saukkonen。第二個項目是由Rice University Mechanical Engineering學生群組開發出來的設備，成員共有Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet and Karen Vasquez Ruiz. Photo by Jeff Fitlow。
 This project seeks to combine and improve the efforts of these two projects into a more simple and reliable device that consists mostly of 3D printed parts. 這個項目的宗旨在於整合過去兩個項目的成果與經驗，並從新研發一個簡單可靠，可以以3D打印配件組成的完整配套方案。
