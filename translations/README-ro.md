@@ -2,8 +2,11 @@
 
 Acest document este accesibil și în aceste limbi:
 
-|[english](README.md)|[català](README-ca.md)|[deutsch](README-de.md)|[español](README-es.md)|[français](README-fr.md)|[日本語](README-ja.md)|[nederlands](README-nl.md)|[polski](README-pl.md)[português](README-pt_BR.md)|[Русский](README-ru.md)|[svenska](README-sv.md)|[türkçe](README-tr.md)[汉语](README-zh-Hans.md)|[漢語](README-zh-Hant.md)
-|---|---|---|---|---|---|---|---|---|
+| Currently | Available | Languages |   |   |   |
+|---|---|---|---|---|---|
+|[english](README.md) | [català](translations/README-ca.md) | [čeština](translations/README-cz.md)| [deutsch](translations/README-de.md) | [español](translations/README-es.md) | [français](translations/README-fr.md) |
+| [日本語](translations/README-ja.md) | [nederlands](translations/README-nl.md) | [polski](translations/README-pl.md) | [português](translations/README-pt_BR.md) | [Română](translations/README-ro.md) | [Русский](translations/README-ru.md) |
+| [svenska](translations/README-sv.md) | [türkçe](translations/README-tr.md) | [汉语](translations/README-zh-Hans.md) | [漢語](translations/README-zh-Hant.md) |---|---|
 
 # Aparat de ventilație automatizat folosind un "Balon de Resuscitare" medical
 - Acest proiect a pornit din cauza pandemiei globale generate de COVID-19, în urma colaborării comunității pe un grup de Facebook numit "Open Source COVID19" și "OpenSourceVentilator". Pornind de aici, am creat un proiect pe **GitLab** pentru un produs deschis colaborării, numit **OpenLung**.
@@ -18,7 +21,7 @@ Acest document este accesibil și în aceste limbi:
 - Componentele care interacționează cu pacientul sunt certificate medical
 - Cerințele mecanice pentru a-l acționa sunt simple
 - Are un puternic istoric medical și a fost testat pe teren
-- Este potrivit atât pentru intubație cât și pentru folosirea măștilor 
+- Este potrivit atât pentru intubație cât și pentru folosirea măștilor
 
 *ATENȚIE: Oricând aveți nevoie de intervenție medicală, căutați să folosiți personal medical calificat cu echipament autorizat de profesionștii din domeniu. Nu folosiți informații arbitrare pe care le găsiți pe Internet. Acest grup nu are experiență medicală, suntem oameni cu specializări diverse, care s-au oferit să ajute.*
 
@@ -31,7 +34,7 @@ Acest document este accesibil și în aceste limbi:
 
     -- Prin intermediul website-ul nostru [Open Source Ventilators Ireland](https://opensourceventilator.ie/) și a canalalelor noastre social-media.
 
-    -- Prin canalul nostru de discuții [Slack](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA), folosit pentru a contribui activ la dezvoltarea acestui produs. Totodată, sunt multe proiecte auxiliare care pornesc de la acest canal de **Slack** și la care puteți lua parte. 
+    -- Prin canalul nostru de discuții [Slack](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA), folosit pentru a contribui activ la dezvoltarea acestui produs. Totodată, sunt multe proiecte auxiliare care pornesc de la acest canal de **Slack** și la care puteți lua parte.
 
 3. Familiarizează-te cu tehnologia de versionare Git, pentru a învăța cum să contribui cât mai bine la acest repositoriu. Sunt multe resurse disponibile online, printre care [acesta](https://www.youtube.com/watch?v=enMumwvLAug), sau [acesta](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html), care te pot ajuta să utilizezi un "merge request".
 
