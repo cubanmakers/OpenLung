@@ -91,3 +91,6 @@ Issues:
 - Support connections for hospital Oxygen supplies — whether driven by piped or cylinder infrastructure (regardless, oxygen tubing is pretty standard, so an O2 fitting should be available)
 - Be compatible with standard COTS catheter mount fittings (15mm Male 22mm Female)
 - Fail SAFE, ideally generating a clear alarm on failure. Failure modes to be alarmed include (but are not limited to) pressure loss and O2 loss
+
+## Later upgrades:
+- Add redundancy to increase reliability.
