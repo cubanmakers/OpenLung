@@ -34,7 +34,7 @@ Acest document este accesibil și în aceste limbi:
 
     -- Prin intermediul website-ul nostru [Open Source Ventilators Ireland](https://opensourceventilator.ie/) și a canalalelor noastre social-media.
 
-    -- Prin canalul nostru de discuții [Slack](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA), folosit pentru a contribui activ la dezvoltarea acestui produs. Totodată, sunt multe proiecte auxiliare care pornesc de la acest canal de **Slack** și la care puteți lua parte.
+    -- Prin canalul nostru de discuții [Slack](https://join.slack.com/t/osventilator/shared_invite/zt-czh5mtpg-z2QZX1xbxAmueOgSgy1tZw), folosit pentru a contribui activ la dezvoltarea acestui produs. Totodată, sunt multe proiecte auxiliare care pornesc de la acest canal de **Slack** și la care puteți lua parte.
 
 3. Familiarizează-te cu tehnologia de versionare Git, pentru a învăța cum să contribui cât mai bine la acest repositoriu. Sunt multe resurse disponibile online, printre care [acesta](https://www.youtube.com/watch?v=enMumwvLAug), sau [acesta](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html), care te pot ajuta să utilizezi un "merge request".
 
