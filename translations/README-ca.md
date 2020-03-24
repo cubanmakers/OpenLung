@@ -4,9 +4,10 @@ Aquest document en altres idiomes:
 
 | Currently | Available | Languages |   |   |   |
 |---|---|---|---|---|---|
-|[english](README.md) | [català](README-ca.md) | [deutsch](README-de.md) | [español](README-es.md) | [français](README-fr.md) | [日本語](README-ja.md) |
-| [nederlands](README-nl.md) | [polski](README-pl.md) | [português](README-pt_BR.md) | [Română](README-ro.md) | [Русский](README-ru.md) | [svenska](README-sv.md) |
-| [türkçe](README-tr.md) | [汉语](README-zh-Hans.md) | [漢語](README-zh-Hant.md) |---|---|---|
+|[english](README.md) | [català](translations/README-ca.md) | [
+čeština](translations/README-cz.md)| [deutsch](translations/README-de.md) | [español](translations/README-es.md) | [français](translations/README-fr.md) |
+| [日本語](translations/README-ja.md) | [nederlands](translations/README-nl.md) | [polski](translations/README-pl.md) | [português](translations/README-pt_BR.md) | [Română](translations/README-ro.md) | [Русский](translations/README-ru.md) |
+| [svenska](translations/README-sv.md) | [türkçe](translations/README-tr.md) | [汉语](translations/README-zh-Hans.md) | [漢語](translations/README-zh-Hant.md) |---|---|
 
 # Baló de ventilació de baix cost
 
