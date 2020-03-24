@@ -11,6 +11,7 @@ Features:
 - High low pressure alerting
 - Mostly NC fabrication methods
 - Compact and light.
+
 Issues:  
 - Multi Material (Complex construction)
 - Seemingly fragile components
@@ -25,6 +26,7 @@ Features:
 - Simple/repeatable motor diver circuit
 - Similar Easy to use 3 button schema
 - Hermetically sealed
+
 Issues:
 - Multi Material (Complex construction)
 - Overtly robust/substantial
