@@ -33,5 +33,5 @@ jeśli chcesz pomóc w tłumaczeniu tej dokumentacji, kliknij [tutaj](https://gi
 - Project Requirements are listed [here](requirements/design-requirements.md).
 
 # Project Progress
-![Current Mechanical Concept](images/CONCEPT_6_MECH.png)
-*Current Design Concept 6 with known issues*
+[click here](concepts/)
+![Current Mechanical Concept](images/current_concept.png)

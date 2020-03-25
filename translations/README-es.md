@@ -31,5 +31,5 @@
 
 
 # Progreso del proyecto
-![Conceptos Mecánicos Actuales](images/CONCEPT_6_MECH.png)
-*Concepto Actual de Diseño 6, con requerimientos conocoidos*
+[click here](concepts/)
+![Current Mechanical Concept](images/current_concept.png)

@@ -32,6 +32,7 @@
 
 # 项目进展
 
-![当前设计概念](images/CONCEPT_6_MECH.png)
+[click here](concepts/)
+![Current Mechanical Concept](images/current_concept.png)
 
-*当前设计概念（存在 6 个已知问题）*
+*当前设计概念（存在 8 个已知问题）*

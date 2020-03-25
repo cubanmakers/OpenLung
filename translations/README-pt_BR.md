@@ -32,5 +32,6 @@ Se você gostaria de ajudar com a tradução desta documentação, clique aqui.
 - Estão todos listados [aqui](requirements/design-requirements.md).
 
 # Progresso
-![Projeto Mecânico Atual](images/CONCEPT_6_MECH.png)
-*Esse conceito tem 6 issues (problemas a serem trabalhados)*
+[click here](concepts/)
+![Current Mechanical Concept](images/current_concept.png)
+*Esse conceito tem 8 issues (problemas a serem trabalhados)*

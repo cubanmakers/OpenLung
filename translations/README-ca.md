@@ -29,9 +29,8 @@ Aquest document en altres idiomes:
 Els requeriments del projecte es mostren [aquí](Requirements.md).
 
 ## Estat del projecte
-
-![Concepte mecànic](CONCEPT_6_MECH.png)
-*Actualment s'està desenvolupant la versió 5 del concepte de disseny, la qual té encara problemes coneguts per resoldre.*
+[click here](concepts/)
+![Current Mechanical Concept](images/current_concept.png)
 
 ## PER FER (on ens cal ajuda)
 

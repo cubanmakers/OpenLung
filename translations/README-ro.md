@@ -46,5 +46,6 @@ Acest document este accesibil și în aceste limbi:
 - Acestea sunt listate [aici](requirements/design-requirements.md).
 
 # Progresul proiectului
-![Conceptul mecanic curent](images/CONCEPT_6_MECH.png)
-*Reprezintă conceptul numărul 6 cu probleme cunoscute și în curs de rezolvare*.
+[click here](concepts/)
+![Current Mechanical Concept](images/current_concept.png)
+*Reprezintă conceptul numărul 8 cu probleme cunoscute și în curs de rezolvare*.

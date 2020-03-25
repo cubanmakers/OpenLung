@@ -32,5 +32,6 @@ Om du vill hjälpa till med översättning av denna dokumentation, klicka [här]
 - Project Requirements are listed [here](requirements/design-requirements.md).
 
 # Project Progress
-![Current Mechanical Concept](images/CONCEPT_6_MECH.png)
-*Current Design Concept 6 with known issues*
+[click here](concepts/)
+![Current Mechanical Concept](images/current_concept.png)
+*Current Design Concept 8 with known issues*

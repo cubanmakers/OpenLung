@@ -17,3 +17,6 @@ Certified components 所使用的硬件配件都是經由認證的
 Small and Simple mechanical requirements 小巧簡單的機械性原理以及要求
 Previous research and testing in this area 產品是基於過去本地實際測試的成果研發而成
 Adaptable to both invasive tubing and masks 可搭配插入式呼吸管以及面罩
+
+[click here](concepts/)
+![Current Mechanical Concept](images/current_concept.png)
