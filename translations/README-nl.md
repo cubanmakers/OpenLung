@@ -29,5 +29,6 @@ Dit document in andere talen:
 - Projectvoorwaarden zijn [hier](requirements/design-requirements.md) opgesomd.
 
 # Project voortgang
-![Huidig mechanisch Concept](images/CONCEPT_6_MECH.png)
-*Huidig design concept 6 met bekende problemen*
+[click here](concepts/)
+![Current Mechanical Concept](images/current_concept.png)
+*Huidig design concept 8 met bekende problemen*

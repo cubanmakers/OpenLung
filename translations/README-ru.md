@@ -32,5 +32,6 @@
 - Требования к проекту опубликованы [здесь](requirements/design-requirements.md).
 
 # Выполнение проекта
-![Текущий концепт механики](images/CONCEPT_6_MECH.png)
-*Текущий концепт с 6 имеющимися проблемами*
+[click here](concepts/)
+![Current Mechanical Concept](images/current_concept.png)
+*Текущий концепт с 8 имеющимися проблемами*

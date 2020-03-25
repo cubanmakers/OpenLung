@@ -41,5 +41,5 @@ Požadavky
 
 Požadavky k projektu jsou sepsány zde (here).
 
-Stav projektu
-Současný stav projektu – koncept 6 se známými problémy zde (https://gitlab.com/open-source-ventilator/OpenLung/-/tree/master)
+[click here](concepts/)
+![Current Mechanical Concept](images/current_concept.png)

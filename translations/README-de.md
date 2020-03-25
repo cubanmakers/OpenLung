@@ -31,5 +31,5 @@ Dieses Dokument in anderen Sprachen:
 - Projekt-Anforderungen sind [hier](requirements/design-requirements.md) aufgeführt .
 
 # Projektfortschritt
-![Aktuelles mechanisches Konzept](images/CONCEPT_6_MECH.png)
-*Aktuelles Designkonzept 6 mit bekannten Problemen*
+[click here](concepts/)
+![Current Mechanical Concept](images/current_concept.png)

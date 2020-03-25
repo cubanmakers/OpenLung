@@ -63,9 +63,9 @@ Simplify the existing designs and improve on component reliability for a low-cos
 - Project Requirements are listed [here](requirements/design-requirements.md).
 
 # Project Progress
-Current Mechanical Concept: [Click Here](/concepts/Concept7)
-![Current Mechanical Concept](concepts/Concept7/C7A1/images/IMG_20200322_103336.jpg)
-*Current Design: Concept 7 with Known Issues*
+Current Mechanical Concept: [Click Here](/concepts/ventilator-concept-8)
+![Current Mechanical Concept](images/current_concept.png)
+*Current Design: Concept 8 Under Review*
 
 ## See live Whimsical flow chart [here](https://whimsical.com/4mai9JtqTHAGu6i6qz8Hyy)
 

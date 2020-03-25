@@ -55,7 +55,8 @@ Ce document dans d'autres langues:
 - ~~Besoins en design~~
 
 ## Prochaines itérations d'amélioration
-
+[click here](concepts/)
+![Current Mechanical Concept](images/current_concept.png)
 
 - ~~Raccordement perpendiculaire de l'arbre moteur/direction du à des problèmes de charge axiale~~
 - ~~Simplification de la struction de la transmission~~
