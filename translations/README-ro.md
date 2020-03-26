@@ -6,7 +6,7 @@ Acest document este accesibil și în aceste limbi:
 |---|---|---|---|---|---|
 |[english](README.md) | [català](translations/README-ca.md) | [čeština](translations/README-cz.md)| [deutsch](translations/README-de.md) | [español](translations/README-es.md) | [français](translations/README-fr.md) |
 | [日本語](translations/README-ja.md) | [nederlands](translations/README-nl.md) | [polski](translations/README-pl.md) | [português](translations/README-pt_BR.md) | [Română](translations/README-ro.md) | [Русский](translations/README-ru.md) |
-| [svenska](translations/README-sv.md) | [türkçe](translations/README-tr.md) | [汉语](translations/README-zh-Hans.md) | [漢語](translations/README-zh-Hant.md) |---|---|
+| [svenska](translations/README-sv.md) | [türkçe](translations/README-tr.md) | [汉语](translations/README-zh-Hans.md) | [漢語](translations/README-zh-Hant.md) |[عربى](translations/README-ar.md)|---|
 
 # Aparat de ventilație automatizat folosind un "Balon de Resuscitare" medical
 - Acest proiect a pornit din cauza pandemiei globale generate de COVID-19, în urma colaborării comunității pe un grup de Facebook numit "Open Source COVID19" și "OpenSourceVentilator". Pornind de aici, am creat un proiect pe **GitLab** pentru un produs deschis colaborării, numit **OpenLung**.

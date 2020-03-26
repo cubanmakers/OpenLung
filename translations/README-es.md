@@ -5,7 +5,7 @@
 |---|---|---|---|---|---|
 |[english](README.md) | [català](translations/README-ca.md) | [čeština](translations/README-cz.md)| [deutsch](translations/README-de.md) | [español](translations/README-es.md) | [français](translations/README-fr.md) |
 | [日本語](translations/README-ja.md) | [nederlands](translations/README-nl.md) | [polski](translations/README-pl.md) | [português](translations/README-pt_BR.md) | [Română](translations/README-ro.md) | [Русский](translations/README-ru.md) |
-| [svenska](translations/README-sv.md) | [türkçe](translations/README-tr.md) | [汉语](translations/README-zh-Hans.md) | [漢語](translations/README-zh-Hant.md) |---|---|
+| [svenska](translations/README-sv.md) | [türkçe](translations/README-tr.md) | [汉语](translations/README-zh-Hans.md) | [漢語](translations/README-zh-Hant.md) |[عربى](translations/README-ar.md)|---|
 
 # Ventilador de bolsa con máscara de bajos recursos (BVM)
 - Este proyecto fue impulsado por la pandemia global COVID-19, como resultado de una discusión comunitaria en un grupo de Facebook llamado Open Source COVID19 y OpenSourceVentilator, es por eso que creé un proyecto GitLab para un nuevo producto de código abierto llamado **OpenLung**.
