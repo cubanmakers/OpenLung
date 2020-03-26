@@ -1,5 +1,8 @@
 # CONCEPT: Arduino-based Controller
 ---
+## Scope:
+- Hardware and Software related to the control of the machine, not including sensor software and housing of machine
+
 ## Team Leads:
 |GitLab|Slack|
 |---|---|
