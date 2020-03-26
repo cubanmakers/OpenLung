@@ -1,5 +1,7 @@
 <img src='images/OL_BANNER.png' height="300"></img>
 
+# Disclaimer
+
 The plans, documents and other materials (“Material”) contained on this website are intended to facilitate the design of a prototype reproducible medical device to be used if required during the Covid-19 pandemic. The Material is not itself a medical device. The Material has not been tested and has not been approved for use in humans or animals by any regulatory authority of any country.   
 
 By using the Material, you are agreeing to the following disclaimer.  
