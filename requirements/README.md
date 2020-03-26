@@ -6,18 +6,21 @@
 ## Team Lead(s):
 |GitLab|Slack|
 |---|---|
-| | @Olivier Coispeau |
-| | |
+|  |  |
+|  |  |
 
 ## Slack Channels:
 -
 
 ## Issue Labels:
-- Humidifier Hardware
+- Legal Requirements
+- Technical Requirements
 
 ## Current Collab Docs:
+- [Requirements Index](requirements/index.md)
 
 ## Overview:
+
 
 ## References:
 - [UK RMV Requirements](requirements/UK_Rapidly-Manufactured_Vent_Requirements.pdf)
