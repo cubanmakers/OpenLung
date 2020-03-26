@@ -1,5 +1,8 @@
 # CONCEPT:
 ---
+## Scope:
+- Hardware related to the humidification and temperature maintenance of ventilated air, not including sensors and ventilator itself
+
 ## Team Lead(s):
 |GitLab|Slack|
 |---|---|

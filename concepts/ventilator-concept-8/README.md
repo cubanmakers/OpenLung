@@ -1,5 +1,8 @@
 # CONCEPT:
 ---
+## Scope:
+- Hardware related to the ventilation of ARDS patients, not including sensors, controllers, housing, and humidifier.
+
 ## Team Lead(s):
 |GitLab|Slack|
 |---|---|

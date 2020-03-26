@@ -1,5 +1,10 @@
 # CONCEPT:
 ---
+## Scope:
+ - Housing surrounding controller and ventilator
+ - Includes panel facing user, but does not include display itself.
+ - Specs for display size will be provided upon determination from controller team.
+ 
 ## Team Lead(s):
 |GitLab|Slack|
 |---|---|
