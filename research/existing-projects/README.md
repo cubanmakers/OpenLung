@@ -1,4 +1,7 @@
 # Known Existing Projects:
+
+One of our fantastic contributors has made this repo full of existing ventilator projects. If you need reference material or would like to see what other teams have built, please check out: https://github.com/IonRod/awesome-lungs-ventilators
+
 ---
 One of the biggest questions we keep getting in Project Management is "Have you seen this other project?" and a lot of the time our answer is "No, but we'd love to."
 
