@@ -1,4 +1,4 @@
-# How to Contribute to OSV
+# How to Contribute to TeamOSV
 ## Thank you for joining our life-saving initiative!
 Welcome to the Open Source Ventilator Project.  We are always happy to have new contributors join us. Whether for smaller cleanups or larger proposals, we're always in need of help!
 
