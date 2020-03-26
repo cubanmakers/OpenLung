@@ -1,4 +1,4 @@
-# Concept 6 - RETIRED
+# Concept 6
 ## NC Sandwich Pulley Concept
 
 ### Notes:
