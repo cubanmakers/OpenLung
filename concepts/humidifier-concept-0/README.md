@@ -20,4 +20,4 @@
 ## Overview:
 
 ### Considerations:
-- Sensors can be “turned off” in event that parts/supplies cannot be manufactured/sourced. (Coordinate with Controller team)
+- Sensors can be “turned off” in event that parts/supplies cannot be manufactured/sourced.
