@@ -4,7 +4,7 @@
  - Housing surrounding controller and ventilator
  - Includes panel facing user, but does not include display itself.
  - Specs for display size will be provided upon determination from controller team.
- 
+
 ## Team Lead(s):
 |GitLab|Slack|
 |---|---|
@@ -31,7 +31,8 @@
   - Worktop/trolleys to put equip on may be limited or may take up too much floor space.
 - Large buttons/dials/etc. (Coordinate with Controller Dev)
   - Users will be wearing masks they are notorious for fogging up so big bold buttons/labels.
-  - IMPORTANT: Nothing that will accidentally move if I brushed past it while in a close environ
+  - IMPORTANT: Nothing that will accidentally move if I brushed past it while in a close environment
+  - consider acetate or other clear cover for buttons
 - Durable:
   - Ideally if I dropped it it would still work, but that’s not a must have by any means.
 - A battery option so I can move a patient to another ward with ease.
