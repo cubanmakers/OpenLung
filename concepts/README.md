@@ -15,6 +15,6 @@ In this project, there are over 2,000 individuals contributing at any one time i
 **Each team needs to keep an eye on their associated labels in issues.**
 
 ## Updating to New Concepts:
-As this is a team effort, team leaders are expected to take note of the status of existing concepts, as well as talk with Project Management about what they can be doing. When you make an update to your concept, if it is a replacement of the old concept, please push the old one to the _retired-concepts directory, and name the new concept with the new concept number (x+1). Also, be sure to update the readme on the new version with the information required in the README by Project Management. This helps everyone to stay in the same train of thought and allows us to better support you and update the community.
+As this is a team effort, team leaders are expected to take note of the status of existing concepts, as well as talk with Project Management about what they can be doing. When you make an update to your concept, if it is a replacement of the old concept, please push the old one to the _retired-concepts directory, and name the new concept with the new concept number (x+1). Also, be sure to update the README on the new version with the information required in the README by Project Management. This helps everyone to stay in the same train of thought and allows us to better support you and update the community.
 
 ## Required fields for Concept READMEs can be found in [empty_readme.md](concepts/empty_readme.md)
