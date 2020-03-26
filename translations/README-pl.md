@@ -1,37 +1,33 @@
 ![Logo](images/OL_BANNER.png)
-
-Ten dokument w innych językach:
-
+Ten dokument jest dostępny w  innych językach:
 | Currently | Available | Languages |   |   |   |
 |---|---|---|---|---|---|
 |[english](README.md) | [català](translations/README-ca.md) | [čeština](translations/README-cz.md)| [deutsch](translations/README-de.md) | [español](translations/README-es.md) | [français](translations/README-fr.md) |
 | [日本語](translations/README-ja.md) | [nederlands](translations/README-nl.md) | [polski](translations/README-pl.md) | [português](translations/README-pt_BR.md) | [Română](translations/README-ro.md) | [Русский](translations/README-ru.md) |
 | [svenska](translations/README-sv.md) | [türkçe](translations/README-tr.md) | [汉语](translations/README-zh-Hans.md) | [漢語](translations/README-zh-Hant.md) |[عربى](translations/README-ar.md)|---|
 
+Jeśli chcesz pomóc w tłumaczeniu tej dokumentacji, kliknij [tutaj](https://gitlab.com/TrevorSmale/OSV-OpenLung/-/issues/23).
 
-jeśli chcesz pomóc w tłumaczeniu tej dokumentacji, kliknij [tutaj](https://gitlab.com/TrevorSmale/OSV-OpenLung/-/issues/23).
+# Nisko Zasobowy Wentylator Worka Samorozprężalnego (Ambu)
+- Ten projekt był przyszpieszony przez globalną pandemie koronawirusa COVID-19. Projekt ten, był stworzony jako rezultat zbiorowej dyskusji na jednej z grup na facebook'u o nazwie "Open Source COVID19" oraz "OpenSourceVentilator". Przez to, stworzyłem nowy projekt na "Gitlab" dla nowego produktu **OpenLung** który jest opensource (otwarte źródło).
 
-# Low Resource Bag Valve Mask (BVM) Ventilator
+- W dyskusji opartej na tworzenie małego kosztu **worka samorozprężalnego** (**Worka Ambu**), było wcześniejsze rozwiązanie stworzone przez [Grupę badawczą w politechnice MIT](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf) które było kierowane przez następujących osób (Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet and Karen Vasquez Ruiz).
 
-- This project was jumpstarted by the COVID-19 global pandemic as a result of community discussion on a facebook group called Open Source COVID19 and OpenSourceVentilator, this is why I created a GitLab project for a new open source product called **OpenLung**.
-- More specifically in a discussion surrounding low cost **Bag Valve Mask** (**BVM** or **AmbuBag**) based emergency respirators wherein prior solutions had been developed. [The first from an MIT research group](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf) comprising of the following persons (Abdul Mohsen Al Husseini, Heon Ju Lee, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum and Jussi Saukkonen). [The second device from a Rice University Mechanical Engineering student group](http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096) comprising of the following persons (Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet and Karen Vasquez Ruiz.
-- This project seeks to combine and improve the efforts of these two projects into a more simple and reliable device that consists mostly of easy to source or 3D printed parts.
-- Benefits: Can be mass produced, touch points use certified components, small and simple mechanical requirements, previous research and testing in this area, adaptable to both invasive tubing and masks.
+- Nasz projekt próbuję połączyć oraz polepszyć te dwa projekty do jednego wielkiego projektu który jest proszczejszy oraz bardziej niezawodny, oraz który składa się z części którę są łatwiejsze do pozyskiwania oraz do wydrukowania w 3D.
 
-*WARNING/DISCLAIMER: Whenever possible, please seek professional medical care with proper equipment setup by trained individuals. Do not use random information you found on the internet. We are not medical professionals, just people on the internet.*
+- Korzyści tego projektu: Może być masowo produkowany, punkty którę są dotykane przez użytkownika używaja certyfikowanych części, małe oraz prostę mechaniczne wymagania, wcześniejsze testowania oraz badania w tej strefe, dający do przystosowania aby korzystać z rurek inwazyjnych lub masek.
 
-# How To Join the Development
-1. Fill out our Expression of Interest Form [here](https://opensourceventilator.ie/register) if you haven't already.
-*This step is mandatory and it’s how we will find you to match your skills to areas you can help. If you have fabrication equipment, also fill out this form.*
-2. We will reach out when your noted skills are needed, until then please check out the following:
--- Stay up to date with the project on our website [Open Source Ventilators Ireland](https://opensourceventilator.ie/) and our social channels.
--- Join our [Slack Channel](https://join.slack.com/t/osventilator/shared_invite/zt-czh5mtpg-z2QZX1xbxAmueOgSgy1tZw) to join the conversation. Many other side projects are happening there.
-3. Get familiar with git by learning how to best contribute to this repository. There are many resources available online, you can start [here](https://www.youtube.com/watch?v=enMumwvLAug) or learn how to submit a merge request [here](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
-4. If you are anxious and would like to get developing, this is open source, please fork this repo and go for it!
+*UWAGA/WYŁĄCZENIE ODPOWIEDZIALNOŚCI: Gdziekolwiek możliwe, szukaj profesjonalej medycznej pomocy która obsługuję sie z odpowiednim medycznym sprzętem, która została przeszkolona aby operować taki oto sprzęt. Prosimy aby nie używać losowej informacji która została znaleziona na internecie. Nie jesteśmy profesjonalnym personelem medycznym, tylko ludzmi na internecie.*
+# Jak można pomóc w rozwoju tego Projektu?
+1. Proszę wypełnić formularz ten, który można zleść [tutaj](https://opensourceventilator.ie/register) jeżeli jeszcze tego nie zrobiłeś/ zrobiłaś.
+*Wypełnienie tego formularza jest obowiązkowe ponieważ umożliwia nam dopasować twoję umiejętności do dokładnej dziedziny w której byś mógł pomoc w. Jeżeli posiadasz sprzęt do jakiejkolwiek produkcji, prosimy abyś wypełnił tamtą formę.*
+2. Proszę o śledzenie naszej strony internetowej [Open Source Ventilators Ireland](https://opensourceventilator.ie/), naszych mediów socjalnych oraz dołączenie do naszego [Kanału Slack](https://join.slack.com/t/osventilator/shared_invite/zt-czh5mtpg-z2QZX1xbxAmueOgSgy1tZw) dopóki się nie skontaktujemy z Państwem, iż dużo innych projektów są w fazie rozwoju.
+3. Zapoznaj się z git aby się nauczyć jak najlepiej wnieść wkład do tego repozytorium. Jest mnóstwo dostępnych źródeł dostępnych na internecie takich jak [tutaj](https://www.youtube.com/watch?v=enMumwvLAug) oraz jak wnioskować o zrobienie merge request [tutaj](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
+4. Jeżeli chcesz zacząc tworzyć swoją wersje tego projektu, nie powczymuj się aby zrobić fork tego repositorium.
 
-# Project Requirements
-- Project Requirements are listed [here](requirements/design-requirements.md).
+# Wymagania Projektu
+- Wymagania projektu można znaleść [tutaj](requirements/design-requirements.md).
 
-# Project Progress
-[click here](concepts/)
+# Postęp Projektu
+[Kliknij tutaj](concepts/)
 ![Current Mechanical Concept](images/current_concept.png)
