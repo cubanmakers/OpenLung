@@ -6,8 +6,8 @@
 ## Team Lead(s):
 |GitLab|Slack|
 |---|---|
-| | |
-| | |
+|  |  |
+|  |  |
 
 ## Slack Channels:
 -
