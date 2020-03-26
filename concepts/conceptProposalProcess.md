@@ -6,7 +6,7 @@ In this project, there are over 2,000 individuals contributing at any one time i
 | Team | Concept Directory Convention | Associated Issue Labels |
 |---|---|---|
 | Ventilator Hardware | ventilator-concept-x| Ventilator Hardware |
-| Controller Development | controller-concept-x| Controller Hardware, Controller Software |
+| Controller Development | arduino-controller-concept-x| Controller Hardware, Controller Software |
 | Controller Housing | housing-concept-x | Controller Housing |
 | Humidification Hardware | humidifier-concept-x | Humidification Hardware |
-| Sensor Layout and Specifications | sensor-concept-x | Sensor Hardware |
+| Sensor Layout and Specifications | arduino-sensor-concept-x | Sensor Hardware |
