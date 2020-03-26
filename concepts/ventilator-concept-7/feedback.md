@@ -9,7 +9,8 @@
 - Sticky medical tape (can’t remember the name) can be applied to the roller to assist retraction (filling BVM up)
 
 ## Issues:
-- 
+-
+
 ---
 ### Pressure Cylinder v2 won't fit the rings around them (tolerance problem)
 ### Submitted by: @erikdebruijn
@@ -21,5 +22,3 @@ Since I don't have native design files I cannot make a change to the CAD file (i
 ![issue97a](/concepts/ventilator-concept-7/C7A1/images/iss97a.jpg)
 
 ![issue97b](/concepts/ventilator-concept-7/C7A1/images/iss97b.jpg)
-
-
