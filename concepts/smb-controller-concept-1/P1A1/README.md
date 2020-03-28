@@ -1,0 +1,1 @@
+Design based on Eric Vinter's recommendation, using TM1638 as the simple yet complete HMI interface.  The function-over-form may not be received well by those in the design communities -- great!  Propose something better!
