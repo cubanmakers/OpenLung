@@ -90,5 +90,5 @@ Current Mechanical Concept: [Click Here](/concepts/ventilator-concept-8)
 - [Algodoo](http://www.algodoo.com/) - Great for testing physical/motion ideas on a game like approach but goes quite deep.
 
 # Image Licensing
-<img src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png' height="300"></img>
+<img src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png'></img>
 Except where otherwise noted, content on this site is licenced under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
