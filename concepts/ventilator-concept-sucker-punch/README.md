@@ -1,4 +1,4 @@
-Features:
+#Features:
 -	All custom parts are either sheet metal stampings or rods and tubes cut to length.
 -	All rods and tubes are the same diameter
 -	Design is setup to be equally well made as stampings, laser cuts or CNC milled parts 
@@ -20,7 +20,7 @@ Features:
 -	No risk of pulling the bag into the machine if the roller locks up
 -	Due to the cam track mechanism the pump volume rises nonlinearly. Much like natural breathing. But I don’t know if this makes a difference.
 
-Issues to be addressed: 
+#Issues to be addressed: 
 -	The air volume adjustment is not yet bullet proof
 -	0 points for looks. Everything is geared towards cost and ease of manufacture.
 -	Little space for the driver circuit
