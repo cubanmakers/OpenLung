@@ -1,13 +1,15 @@
 # CONCEPT 10: OxVent Variants
 ---
 ## Scope: Compressed-Air or O2 driven BVM Compressor
- -
+ - video of OSV demo <https://www.youtube.com/watch?v=e24rZ50t4Qs&feature=youtu.be>
 
 ## Team Lead(s):
-|GitLab|Slack|
-Team 1: |---|@Jerry Wenzel|
-Team 2: | |@Finian McCarthy|
-| | |
+
+| Team     | Gitlab   | Slack            |
+| ---      |  ------  |-----------------:|
+|  1       |          | @ Jerry Wenzel   |
+|  2       |          | @ Finian McCarthy   |
+
 
 ## Slack Channels: 
 - #compairconceptventilator
