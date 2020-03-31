@@ -32,6 +32,5 @@ These are universal properties & considerations for any type of ventilator. plea
 NB expiratory gases in this design are vented to air through a Rubens [one way valve] at the patient end of the Ambubag thus CoVid aerosol contamination is a problem we need to acknowledge [unless scavenged]. If we are designing a CoVid ventilator [invasive or non-invasive] we will need to be able to adjust, measure & control all 4 of the above variables including be able to titrate the PEEP [positive end expiratory pressure] that is universally required in CoVid-19 ARDS [adult respiratory distress syndrome].
 
 I hope all this helps!?**
-
 ---
 
