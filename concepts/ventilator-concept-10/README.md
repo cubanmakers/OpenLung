@@ -1,7 +1,7 @@
 # CONCEPT 10: OxVent Variants
 ---
 ## Scope: Compressed-Air or O2 driven BVM Compressor
- - video of OSV demo <https://www.youtube.com/watch?v=e24rZ50t4Qs&feature=youtu.be>
+ - video of OSV demo by Jerry Wenzel 29 March 2020 <https://www.youtube.com/watch?v=e24rZ50t4Qs&feature=youtu.be>
 
 ## Team Lead(s):
 
