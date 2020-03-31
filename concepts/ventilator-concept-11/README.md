@@ -12,7 +12,7 @@
 | Team     | Gitlab   | Slack            |
 | ---      |  ------  |-----------------:|
 |  Acme    |    @jd18 | @ Jonathan Kemp   |
-|         |           | @ Finian McCarthy   |
+|         |           |               |
 
 
 ## Slack Channels: 
