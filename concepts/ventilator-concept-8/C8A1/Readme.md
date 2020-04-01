@@ -1,6 +1,9 @@
-# Concept 8A1 - Current Concept
+# Concept 8A1
 
 ## Notes:
+
+Anyway, here's some of the design intent for Concept 8: The outer structure is all made from the same thickness of sheet, which from my experience working with sheet metal, allows you to laser, plasma or waterjet cut a large amount of parts from the same sheet of material. The structural 'pins' connected to both sides of the frame are very simple to machine on even the most basic of a hobby lathe. These can also be made from various materials including aluminium, plastic, wood, (or even bamboo!). The large 'ring' that presses against the bag is probably going to be a part that a novice machinist would struggle with, but with the addition of ball bearings in the assembly it allows us to make it out of a variety of materials(as opposed to just uhmw and delrin, like in the 8.1 version). So plastic, metal or even wood could be used depending on local availability. Lastly I'd like to address the cam mechanism, because it's 'complexity' has been a worry for a lot of people. The Cam itself in the 8.2 revision is intended to be 3D printed, so the complex shapes (which would obviously be a nightmare to machine using a milling machine or lathe) wouldn't be the same issue manufactured in this way. That's one of the big advantages I see with 3D printing. Complex shapes don't bother the process the same way it would traditional machining. The ball bearings and gears in the Cam assembly are 'off the shelf' parts, but the gears are also possibly 3D printable parts depending on the precision of the printer. I hope I've clarified the direction I was going with this design, as at first glance it may look very random and not well thought out. Also I'd like to point out that this design would be meant for countries that have the capabilities to manufacture in this way. Simpler Concepts, like the ones that myself and @Trevor Smale designed in earlier versions, would obviously be more suited to poorer countries that have less manufacturing capabilities.
+
 ### Mechanical:
 - Needed to add feature (Tilting) for varying depressions on the fly without touching the electronic interface
 - Simplified the depression mechanism to an eccentric cam as testing has shown difficulties with tensions and motor torque on 6
@@ -39,4 +42,5 @@
 - Needs to imply operational characteristics
 - Needs to take a bump or fall
 - Needs to be powder-coated for decontamination
-v
+
+## David O'Reilly / Trevor Smale
