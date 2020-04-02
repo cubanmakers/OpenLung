@@ -1,4 +1,4 @@
-![OpenLung](images/OL_BANNER2.png)
+![OpenLung](images/OL_BANNER_2.png)
 
 # Disclaimer
 
