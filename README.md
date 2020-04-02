@@ -1,4 +1,4 @@
-<img src='images/OL_BANNER.png' height="300"></img>
+![OpenLung](images/OL_BANNER_2.png)
 
 # Disclaimer
 
