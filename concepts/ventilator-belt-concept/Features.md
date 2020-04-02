@@ -1,6 +1,0 @@
-- Quickly adjustable pump volume
-- All sheet metal fabrication.
-- Only two trivial bends. No large radii. No internal folds.
-- Quasi rotary encoder with micro switches
-- compatible with a strong 12V gear motor
-- Low friction on the belt and ambubag
