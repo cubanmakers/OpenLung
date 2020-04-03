@@ -41,6 +41,26 @@ The ES provides a redundant power supply line selection, with main and backup li
 The ES provides a clear user interface, showing all the variables set by the user and their readings from the system. The interface should also show the time evolution of critical variables to be monitored.
 
 ## Block Diagram
+<img src='control-electronics/Support-files/README_images/OSV-ES_Block_diagram-3-april.png' height="700"></img>
+
+A Guideline of the electronic system block diagram is here shown. Blocks unrelated to the electronics are not included. The pneumatic system and patient blocks are shown only for reference as the system, at least in its high level hardware architecture, is patient and pneumatic system agnostic. Blocks are coloured to highlight different areas of development.The control loop is also highlighted.
+
+## Control Loop
+The control loop, also identified as “Feedback Loop”, is the loop that defines the system behaviour during ventilation.
+
+A closed loop control is the best way to ensure the system is operating safely and by respecting all the settings.
+
+An example of closed loop functioning is here detailed:
+1. The User (Medical responsible) sets a MODE of operation, pressure and volume data in the input/output interface
+2. The Interface communicates all the data to start the ventilation to the MCU.
+3. The MCU computes the sequence of movements to be done by the motor to achieve the desired behaviour, based on pre-calibrated reference variables, and outputs a trajectory stored in the MCU.
+4. The MCU activates motion of the motor by issuing commands to the Electrical Motor Control.
+5. The Motor control commands the stepper motor accordingly.
+6. The stepper motor compresses-depresses the pneumatic system providing ventilation to the patient.
+7. The pressure sensors connected to the pneumatic circuit provide feedback on the current pressure and volume being transferred in the patient’s lungs.
+8. The MCU reads the sensors and computes if the system is following the pre-computed trajectory.
+9. The MCU computes the correction (if needed) to keep the system on trajectory and goes to step 4.
+10. Interrupt: if new commands are being issued by the Input/Output panel, the MCU immediately computes the new trajectory from the current point and goes to step 4.
 
 
 ## Directory structure
