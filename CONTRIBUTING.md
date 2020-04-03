@@ -49,6 +49,13 @@ We use the fork/merge process, rather than maintaining multiple protected branch
    - comms: [OSV Slack](https://join.slack.com/t/osventilator/shared_invite/zt-cst4dhk7-BFNMz_vyBPthjlBFYV1yWA)
    - versioning info: [Versioning Doc](VersioningHowTo.md)
 
+# Recommended Tools
+- [A360](https://www.autodesk.com/products/a360/features) - A360 project collaboration software helps teams view, share, find, and review files in a centralized workspace.
+- [Fusion 360](https://www.autodesk.com/products/fusion-360/mechanical-engineer)
+- [FreeCADWeb](https://www.freecadweb.org/) - 3D parametric modeler for free
+- [Artrage](http://www.artrage.com/) - Quick Sketcher on desktop
+- [Algodoo](http://www.algodoo.com/) - Great for testing physical/motion ideas on a game like approach but goes quite deep.
+
 ## Testing
 **This section is a work in progress**
 Testing: how to test software components
