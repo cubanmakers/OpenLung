@@ -62,6 +62,22 @@ An example of closed loop functioning is here detailed:
 9. The MCU computes the correction (if needed) to keep the system on trajectory and goes to step 4.
 10. Interrupt: if new commands are being issued by the Input/Output panel, the MCU immediately computes the new trajectory from the current point and goes to step 4.
 
+## How to help
+
+1.  Give a brief look to the task list below. This will give you an idea of what tasks are waiting someone to develop them, and what are currently being worked on / are considered done and ready for manufacturing.
+2.  Identify the taks you would like to work on.
+3.  Consult the [System Design Specification Document](https://docs.google.com/document/d/1OEBElTORT_hLxyU2gSYZyEBKLmrnHysd38e4w1xVEWE/edit?usp=sharing) to gain insight on what are the detailed requirements for that task.
+4.  If you have any question, doubt or suggestion, contact one of the coordinators.
+5.  Start developing, fork this directory, upload your files, and request a merge!
+
+## Tools:
+
+#### PCB design CAD:  
+- **Altium Designer 20 is strongly preferred**, a free trial period of 30 days can be requested when downloading the software for the first time.
+- **KiCAD** is accepted, but the main development work is currently being done under Altium Designer.
+
+#### PCB Simulation tools:
+- If you need to simulate anything, **Saturn PCB toolkit** is a nice and easy place where to start.
 
 ## Directory structure
 - **Concept-specific-ES**: Directory into which ES designs developed for specific mechanical concepts should be placed, naming convention inside this folder must follow the same naming convention of the mechanical concept
