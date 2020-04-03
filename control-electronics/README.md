@@ -41,7 +41,9 @@ The ES provides a redundant power supply line selection, with main and backup li
 The ES provides a clear user interface, showing all the variables set by the user and their readings from the system. The interface should also show the time evolution of critical variables to be monitored.
 
 ## Block Diagram
+<img src='control-electronics/Support-files/README_images/OSV-ES_Block_diagram-3-april.png' height="700"></img>
 
+The electronic system block diagram is here shown. Blocks unrelated to the electronics are not included. The pneumatic system and patient blocks are shown only for reference as the system, at least in its high level hardware architecture, is patient and pneumatic system agnostic. Blocks are coloured to highlight different areas of development.The control loop is also highlighted.
 
 ## Directory structure
 - **Concept-specific-ES**: Directory into which ES designs developed for specific mechanical concepts should be placed, naming convention inside this folder must follow the same naming convention of the mechanical concept
