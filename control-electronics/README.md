@@ -70,7 +70,7 @@ An example of closed loop functioning is here detailed:
 4.  If you have any question, doubt or suggestion, contact one of the coordinators.
 5.  Start developing, fork this directory, upload your files, and request a merge!
 
-## Tools:
+## Tools
 
 #### PCB design CAD:  
 - **Altium Designer 20 is strongly preferred**, a free trial period of 30 days can be requested when downloading the software for the first time.
@@ -78,6 +78,21 @@ An example of closed loop functioning is here detailed:
 
 #### PCB Simulation tools:
 - If you need to simulate anything, **Saturn PCB toolkit** is a nice and easy place where to start.
+
+## Task List
+
+* [ ]  Motherboard design (Altium 20) (design ongoing...)
+* [x]  Motor Control Board Design (Altium 20)
+* [ ]  Alarm Board (Altium 20) (design ongoing...)
+* [ ]  Power Regulation Board (Altium 20) (design ongoing...)
+* [ ]  Sensor Board (Altium 20)
+
+
+* [ ]  Motherboard design (KiCAD)
+* [ ]  Motor Control Board Design (KiCAD)
+* [ ]  Alarm Board (KiCAD)
+* [ ]  Power Regulation Board (KiCAD)
+* [ ]  Sensor Board (KiCAD)
 
 ## Directory structure
 - **Concept-specific-ES**: Directory into which ES designs developed for specific mechanical concepts should be placed, naming convention inside this folder must follow the same naming convention of the mechanical concept
@@ -111,7 +126,7 @@ An example of closed loop functioning is here detailed:
         - EM-Stepper-60V_2Amp
         - 
 
-- **ES-design-guideline**
+- **Support-files** Anything to support the electronics control development
 
 
 ## Electronic system coordinator(s)
@@ -121,11 +136,5 @@ An example of closed loop functioning is here detailed:
 | | |
 
 ## Slack Channels:
--
-
-## Issue Labels:
-- Sensor Hardware
-
-## Current Collab Docs:
-
-## Overview:
+- design-hardware
+- ele_control-systems
