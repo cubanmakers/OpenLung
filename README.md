@@ -43,12 +43,6 @@
 | Humidification Hardware | [humidifier-concepts](/humidifier-concepts) |
 | BVM Filtration Hardware | [bvm-filtration](/bvm-filtration) |
 
-# Image Licensing
-
-<img src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png'></img>
-
-Except where otherwise noted, image content on this repository is licenced under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-
 # This document in other languages:
 | | | Language | Translations | | |
 |---|---|---|---|---|---|
@@ -58,4 +52,10 @@ Except where otherwise noted, image content on this repository is licenced under
 
 *Contribute by translating this ReadMe.md file into other languages [here](/translations).*
 
-*Managed by [OpenLung](https://openlung.org/) and [OS Ventilator Ireland](https://opensourceventilator.ie/) Communities*
+# Image Licensing
+
+<img src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png'></img>
+
+Except where otherwise noted, image content on this repository is licenced under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+*Repository managed by [OpenLung](https://openlung.org/) and [OS Ventilator Ireland](https://opensourceventilator.ie/) Communities*
