@@ -17,7 +17,7 @@ Open Source Ventilator - Velocity Team
 https://www.trinamic.com/support/eval-kits/details/tmc5160-bob/
 
 ## Changelog
-Layout reduced from 4 layer PCB to 2 Layer PCB
+- Layout reduced from 4 layer PCB to 2 Layer PCB
 
 ## Known Issues:
 - Voltage on stepper motor is limited by the mosfets
