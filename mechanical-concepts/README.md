@@ -11,6 +11,8 @@ In this project, there are over 2,000 individuals contributing at any one time i
 | Sensor Layout and Specifications | ventuino-sensor-concept-x | Sensor Hardware |
 | Controller Housing | housing-concept-x | Controller Housing |
 | Humidification Hardware | humidifier-concept-x | Humidification Hardware |
+| BVM Filtration Hardware | bvm-filtration-concept-x | BVM Filtration Hardware |
+
 
 **Each team needs to keep an eye on their associated labels in issues.**
 

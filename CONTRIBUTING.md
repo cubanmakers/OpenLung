@@ -20,9 +20,10 @@ If you have questions regarding this project or would like to know specifics on 
 
 ## How to Contribute Directly to the Repo:
 
-Check out the [README](README.md) for details on how to get involved. Take a look around and see what you think we're missing. Look in the issues and comment or do what you can  to help. This is a global effort and we'll take all of the help that we can get. That said, we do have some guidelines.
-
-If you're a native speaker or translator of a language that you see listed on our ReadMe or you think needs to have a translation, please feel free to submit an issue request and let us know you can do that. At this time, we are not taking requests for new translations, however, if an existing README is not appropriately translated, feel free to submit an updated translation!
+- In this project, there are over 2,000 individuals contributing at any one time in various formats.
+- With that said, there is a lot of management that has to happen in order for that to be productive.
+- In this repository, you'll notice that our concepts directory has various concept directories within it.
+- The requirements in each directory will be contained in of the README.md and team leads, identified by Project Management and listed in the README, can submit merge requests in order to have their progress updated to the public and rest of the project.
 
 ## How To Submit Changes to the Repo:
 
@@ -40,7 +41,6 @@ We use the fork/merge process, rather than maintaining multiple protected branch
 ### Resources for GitLab:
   - [GitLab Training Path](https://about.gitlab.com/training/#gitlab)
   - [How to Submit a Merge Request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-
 
 ## Short Links to Important Resources:
 
