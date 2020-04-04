@@ -1,4 +1,5 @@
-# Overview: TMC5160 chipset based Stepper motor control up to 36V and 2.8A per phase with layout on 2-LAYER board. Designed with Altium.
+# Overview: 
+**TMC5160 chipset based Stepper motor control up to 36V and 2.8A per phase.**
 ---
 ## Scope:
 - Controlling a Stepper motor via SPI interface
@@ -6,7 +7,10 @@
 ## Designer:
 Open Source Ventilator - Velocity Team 
 
-Designed with:
+## Stackup
+2 Layer PCB
+
+## Designed with:
 **Altium Designer**
 
 ## Source/previous design:
