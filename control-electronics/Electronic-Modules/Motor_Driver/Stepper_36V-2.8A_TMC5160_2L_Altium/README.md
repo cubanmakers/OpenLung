@@ -1,5 +1,5 @@
 # Overview: 
-**TMC5160 chipset based Stepper motor control up to 36V and 2.8A per phase.**
+**TMC5160 chipset based Stepper motor control up to 36V and 2.8A per phase**
 ---
 ## Scope:
 - Controlling a Stepper motor via SPI interface
@@ -15,6 +15,9 @@ Open Source Ventilator - Velocity Team
 
 ## Source/previous design:
 https://www.trinamic.com/support/eval-kits/details/tmc5160-bob/
+
+## Changelog
+Layout reduced from 4 layer PCB to 2 Layer PCB
 
 ## Known Issues:
 - Voltage on stepper motor is limited by the mosfets
