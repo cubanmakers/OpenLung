@@ -31,7 +31,7 @@
 
 # How To Contribute
 
-- Please follow the contribution guidelines as outlined [here](CONTRIBUTING.md) to contribute to this open-source project.
+-  To contribute to this open-source project please follow the contribution guidelines as outlined [here](CONTRIBUTING.md).
 
 # Project Teams
 | Team | Directory |
