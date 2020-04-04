@@ -20,12 +20,9 @@
 
 - This project was jumpstarted by the COVID-19 global pandemic as a result of the community discussion on a Facebook group called Open Source COVID19 and OpenSourceVentilator, this is why I created a GitLab project for a new open-source product called **OpenLung**.
 - More specifically, this project was created in a discussion surrounding low cost **Bag Valve Mask** (**BVM** or **AmbuBag**)-based emergency respirators wherein prior solutions had been developed.
-
-The first device discussed came from an [MIT research group](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf) comprising of the following persons: Abdul Mohsen Al Husseini, Heon Ju Lee, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum and Jussi Saukkonen.
-The second device arose from a [Rice University Mechanical Engineering student group](http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096) comprising of the following persons: Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet and Karen Vasquez Ruiz.
-
-*This project seeks to combine and improve the efforts of these two projects into a more simple and reliable device that consists mostly of easy to source or 3D printed parts.*
-
+- The first device discussed came from an [MIT research group](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf) comprising of the following persons: Abdul Mohsen Al Husseini, Heon Ju Lee, Justin Negrete, Stephen Powelson, Amelia Servi, Alexander Slocum and Jussi Saukkonen.
+- The second device arose from a [Rice University Mechanical Engineering student group](http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096) comprising of the following persons: Madison Nasteff, Carolina De Santiago, Aravind Sundaramraj, Natalie Dickman, Tim Nonet and Karen Vasquez Ruiz.
+- This project seeks to combine and improve the efforts of these two projects into a more simple and reliable device that consists mostly of easy to source or 3D printed parts.
 - Benefits: Can be mass-produced, touch points use certified components, small and simple mechanical requirements, previous research and testing in this area, adaptable to both invasive tubing and masks.
 
 # Design Requirements
@@ -57,6 +54,7 @@ Except where otherwise noted, image content on this repository is licenced under
 |[english](README.md) | [català](translations/README-ca.md) | [čeština](translations/README-cz.md)| [deutsch](translations/README-de.md) | [español](translations/README-es.md) | [français](translations/README-fr.md) |
 | [日本語](translations/README-ja.md) | [nederlands](translations/README-nl.md) | [polski](translations/README-pl.md) | [português](translations/README-pt_BR.md) | [Română](translations/README-ro.md) | [Русский](translations/README-ru.md) |
 | [svenska](translations/README-sv.md) | [türkçe](translations/README-tr.md) | [汉语](translations/README-zh-Hans.md) | [漢語](translations/README-zh-Hant.md) |[عربى](translations/README-ar.md)|---|
+
 *Contribute by translating this ReadMe.md file into other languages [here](/translations).*
 
 *Managed by [OpenLung](https://openlung.org/) and [OS Ventilator Ireland](https://opensourceventilator.ie/) Communities*
