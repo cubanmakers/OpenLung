@@ -5,7 +5,7 @@
 - Controlling a Stepper motor via SPI interface
 
 ## Designer:
-Open Source Ventilator - Velocity Team 
+Nadim Conti (Open Source Ventilator - Velocity Team )
 
 ## Stackup
 4 Layer PCB
@@ -17,8 +17,8 @@ Open Source Ventilator - Velocity Team
 https://www.trinamic.com/support/eval-kits/details/tmc5160-bob/
 
 ## Changelog:
-- Updated Mosfets to 60V rated ones
-- Updated TMC5160 to TMC5160A (footprint compatible)
+- Updated Mosfets to 60V rated ones (CSD88537ND from Texas Instruments)
+- Mind that TMC5160 must be updated to TMC5160A while placing order.
 
 ## Known Issues:
 - Voltage on stepper motor is now limited by both MOSFETs and TMC5160A
