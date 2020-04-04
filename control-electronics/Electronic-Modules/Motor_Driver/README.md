@@ -5,3 +5,6 @@
 
 *Note: Almost all mechanical concepts so far (April 4) are working on Stepper Motors*
 
+
+## Dimensions
+<img src='control-electronics/Support-files/README_images/StepperMotEMdimension.PNG' height="400"></img>
