@@ -5,7 +5,7 @@
 - Controlling a Stepper motor via SPI interface
 
 ## Designer:
-Open Source Ventilator - Velocity Team 
+Henno Esterhuyse  ( Open Source Ventilator - Velocity Team )
 
 ## Stackup
 2 Layer PCB
