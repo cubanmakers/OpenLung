@@ -15,7 +15,8 @@ Trinamic
 ## Design CAD:
 **Altium Designer**
 
-## Source/previous design:
+## Source design:
+This is the ORIGINAL design from Trinamic, pushed in this repo folder for convenience:
 https://www.trinamic.com/support/eval-kits/details/tmc5160-bob/
 
 ## Known Issues:
