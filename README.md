@@ -36,6 +36,16 @@ The second device arose from a [Rice University Mechanical Engineering student g
 
 Please follow the contribution guidelines as outlined [here](CONTRIBUTING.md).
 
+# Teams
+| Team | Directory |
+|---|---|
+| Ventilator Hardware | [mechanical-concepts](/mechanical-concepts) |
+| Controller Development | [control-electronics](/control-electronics) |
+| Sensor Layout and Specifications | TBD |
+| Controller Housing | [housing-concepts](/housing-concepts) |
+| Humidification Hardware | [humidifier-concepts](/humidifier-concepts) |
+| BVM Filtration Hardware | [bvm-filtration](/bvm-filtration) |
+
 # Image Licensing
 
 <img src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png'></img>
