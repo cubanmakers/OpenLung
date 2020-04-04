@@ -1,10 +1,20 @@
-# Overview: TMC5160 chipset based Stepper motor control up to 36V and 2.8A per phase
+# Overview: 
+
+**TMC5160 chipset based Stepper motor control up to 36V and 2.8A per phase.**
 ---
 ## Scope:
 - Controlling a Stepper motor via SPI interface
 
 ## Designer:
 Trinamic 
+
+## Stackup:
+
+4 Layer PCB
+
+## Design CAD:
+**Altium Designer**
+
 ## Source/previous design:
 https://www.trinamic.com/support/eval-kits/details/tmc5160-bob/
 
