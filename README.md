@@ -34,14 +34,14 @@ The second device arose from a [Rice University Mechanical Engineering student g
 
 # How To Contribute
 
-Please follow the contribution guidelines as outlined [here](CONTRIBUTING.md).
+- Please follow the contribution guidelines as outlined [here](CONTRIBUTING.md) to contribute to this open-source project.
 
-# Teams
+# Project Teams
 | Team | Directory |
 |---|---|
 | Ventilator Hardware | [mechanical-concepts](/mechanical-concepts) |
 | Controller Development | [control-electronics](/control-electronics) |
-| Sensor Layout and Specifications | TBD |
+| Sensor Layout and Specifications | [control-electronics](/control-electronics) |
 | Controller Housing | [housing-concepts](/housing-concepts) |
 | Humidification Hardware | [humidifier-concepts](/humidifier-concepts) |
 | BVM Filtration Hardware | [bvm-filtration](/bvm-filtration) |
@@ -54,10 +54,9 @@ Except where otherwise noted, image content on this repository is licenced under
 
 # This document in other languages:
 
-| Currently | Available | Languages |   |   |   |
-|---|---|---|---|---|---|
 |[english](README.md) | [català](translations/README-ca.md) | [čeština](translations/README-cz.md)| [deutsch](translations/README-de.md) | [español](translations/README-es.md) | [français](translations/README-fr.md) |
 | [日本語](translations/README-ja.md) | [nederlands](translations/README-nl.md) | [polski](translations/README-pl.md) | [português](translations/README-pt_BR.md) | [Română](translations/README-ro.md) | [Русский](translations/README-ru.md) |
 | [svenska](translations/README-sv.md) | [türkçe](translations/README-tr.md) | [汉语](translations/README-zh-Hans.md) | [漢語](translations/README-zh-Hant.md) |[عربى](translations/README-ar.md)|---|
+*Contribute by translating this ReadMe.md file into other languages [here](/translations).*
 
 *Managed by [OpenLung](https://openlung.org/) and [OS Ventilator Ireland](https://opensourceventilator.ie/) Communities*
