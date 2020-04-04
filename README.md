@@ -42,7 +42,6 @@
 | Controller Housing | [housing-concepts](/housing-concepts) |
 | Humidification Hardware | [humidifier-concepts](/humidifier-concepts) |
 | BVM Filtration Hardware | [bvm-filtration](/bvm-filtration) |
-| Simulation and Testing | [testing](/testing) |
 
 # This document in other languages:
 | | | Language | Translations | | |
