@@ -1,11 +1,13 @@
-## HAMILTON C6 VENTILATOR SIMULATOR (FREE)
+# HAMILTON C6 VENTILATOR SIMULATOR (FREE)
 
 The simulation software features:  
 
-A fully simulated ventilator graphical user interface (GUI) with all control and alarm settings and most ventilation modes 
-Real-time monitoring values, curves, and visualization for all relevant parameters
-A physiological patient model including various adjustable patient conditions: normal, COPD, and ARDS
-Monitoring parameters for the patient’s oxygenation and ventilation, including a simulated BGA
+1. A fully simulated ventilator graphical user interface (GUI) with all control and alarm settings and most ventilation modes 
+2. Real-time monitoring values, curves, and visualization for all relevant parameters
+3. A physiological patient model including various adjustable patient conditions: normal, COPD, and ARDS
+4. Monitoring parameters for the patient’s oxygenation and ventilation, including a simulated BGA
+
+## Files and downloads
 
 - USER INSTRUCTIONS: https://www.hamilton-medical.com/it/dam/jcr:6a72fa07-aaa6-4daa-9471-c511041cabc1/HAMILTON-C6%20simulation%20IFU.pdf
 - Windows Installer: https://www.hamilton-medical.com/it/dam/jcr:7799e4cd-4a06-43cf-9b6d-475f5b521b3f/HAMILTON-C6-SETUP.exe
