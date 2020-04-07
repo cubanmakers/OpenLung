@@ -16,8 +16,8 @@
 - Mechanical Concepts in Testing
 - How to Help
 - Task List
-- Tools
 - Directory Structure
+- Tools
 
 ## Definitions
 
@@ -84,15 +84,6 @@
 * [ ]  
 * [ ]  
 
-## Tools
-
-#### Computer Automated Design (CAD):
-- **SolidWorks is strongly preferred.**
-- [Fusion 360](https://www.autodesk.com/products/fusion-360/mechanical-engineer)
-- [OnShape](https://www.onshape.com/)
-- [A360](https://www.autodesk.com/products/a360/features) - A360 project collaboration software helps teams view, share, find, and review files in a centralized workspace.
-- [FreeCADWeb](https://www.freecadweb.org/) - 3D parametric modeler for free
-
 ## Directory Structure
 
 - **ventilator-concept-X**: Directory into which MC designs developed should be placed, naming convention inside this folder must follow the same naming convention outlined here. X follows a sequential numbering progression.
@@ -106,6 +97,15 @@
     - **CXB1**: The first iteration of "ventilator-concept-X" by a different creator (B).
     - ...
 	- **CXZ1**: The Z-eth iteration of "ventilator-concept-X" by a different creator (Z).
+
+## Tools
+
+#### Computer Automated Design (CAD):
+- **SolidWorks is strongly preferred.**
+- [Fusion 360](https://www.autodesk.com/products/fusion-360/mechanical-engineer)
+- [OnShape](https://www.onshape.com/)
+- [A360](https://www.autodesk.com/products/a360/features) - A360 project collaboration software helps teams view, share, find, and review files in a centralized workspace.
+- [FreeCADWeb](https://www.freecadweb.org/) - 3D parametric modeler for free
 
 ## Mechanical Concept Coordinator(s)
 
