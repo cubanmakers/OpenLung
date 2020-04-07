@@ -42,11 +42,11 @@
 
 | Image | Concept | Issue Label | Concept Lead(s) |
 |---|---|---|---|
-| | C6A1 | BELT | David O'Reilly (@dor2020) |
-| | C8A4 | CLAW | David O'Reilly (@dor2020) |
-| | C8B1 | FLAPPER | Colin O'Brien |
-| | C8B2 | MAKER | Colin O'Brien |
-| | C13A1 | JAWS | Dugan Karnazes |
+| | [C6A1](/mechanical-concepts/ventilator-concept-6/6A1) | BELT | David O'Reilly (@dor2020) |
+| | [C8A3](/mechanical-concepts/ventilator-concept-8/C8A3%20(Claw)) | CLAW | David O'Reilly (@dor2020) |
+| | [C8B1](/mechanical-concepts/ventilator-concept-8/C8B1%20(Flapper)) | FLAPPER | Colin O'Brien |
+| | [C8B2](/mechanical-concepts/ventilator-concept-8/C8B2%20(Maker)) | MAKER | Colin O'Brien |
+| | [C13A1](/mechanical-concepts/ventilator-concept-13/C13A1%20(Jaws)) | JAWS | Dugan Karnazes |
 
 ## How to help
 
