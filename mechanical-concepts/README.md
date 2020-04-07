@@ -40,7 +40,7 @@
 
 ## Mechanical Concepts in Testing
 
-| Image | Concept | Issue Label | Team Lead(s) |
+| Image | Concept | Issue Label | Concept Lead(s) |
 |---|---|---|---|
 | | C6A1 | BELT | David O'Reilly (@dor2020) |
 | | C8A4 | CLAW | David O'Reilly (@dor2020) |
