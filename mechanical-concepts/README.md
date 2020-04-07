@@ -4,9 +4,9 @@
 
 ## Scope
 
-- **To provide a mechanical system to depress the Bag Valve Mask (BVM) to provide emergency ventilator function**
+- **To provide a mechanical concept to depress the Bag Valve Mask (BVM) to provide emergency ventilator function.**
 
-- To develop mechanical hardware modules to be used as building blocks in the overall ventilator system design
+- To develop a mechanical concept hardware module(s) to be used as building blocks in the overall ventilator system design.
 
 ## Readme Index
 
@@ -36,7 +36,7 @@
 
 ## Design Requirements
 
-- [Work In Progress] Design Requirements are under development [here](/requirements).
+- [*Work In Progress*] Design Requirements are under development [here](/requirements).
 
 ## Mechanical Concepts in Testing
 
@@ -123,4 +123,3 @@
 ## Slack Channels
 
 - design-hardware
-- 
