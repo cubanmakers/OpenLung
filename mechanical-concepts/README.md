@@ -94,9 +94,9 @@
     - ...
     - **CXAZ**: The Z-th iteration of "ventilator-concept-X" by the same creator (A).
 
-    - **CXB1**: The first iteration of "ventilator-concept-X" by a different creator (B).
+    - **CXB1**: The first iteration of "ventilator-concept-X" by a new creator (B).
     - ...
-	- **CXZ1**: The Z-eth iteration of "ventilator-concept-X" by a different creator (Z).
+	- **CXY1**: The first iteration of "ventilator-concept-X" by another new creator (Z).
 
 ## Tools
 
