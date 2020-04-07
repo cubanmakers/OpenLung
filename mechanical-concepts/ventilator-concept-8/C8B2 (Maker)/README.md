@@ -1,4 +1,4 @@
-# CONCEPT:
+# CONCEPT: C8B2
 ---
 ## Scope:
 - Hardware related to the ventilation of ARDS patients, not including sensors, controllers, housing, and humidifier.
