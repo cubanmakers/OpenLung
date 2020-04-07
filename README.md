@@ -34,14 +34,14 @@
 -  To contribute to this open-source project please follow the contribution guidelines as outlined [here](CONTRIBUTING.md).
 
 # Project Teams
-| Team | Directory |
+| Team | Directory | Issue Label |
 |---|---|
-| Ventilator Hardware | [mechanical-concepts](/mechanical-concepts) |
-| Controller Development | [control-electronics](/control-electronics) |
-| Sensor Layout and Specifications | [control-electronics](/control-electronics) |
-| Controller Housing | [housing-concepts](/housing-concepts) |
-| Humidification Hardware | [humidifier-concepts](/humidifier-concepts) |
-| BVM Filtration Hardware | [bvm-filtration](/bvm-filtration) |
+| Mechanical Concepts | [mechanical-concepts](/mechanical-concepts) | Ventilator Hardware |
+| Controller Development | [control-electronics](/control-electronics) | Controller Hardware, Controller Software |
+| Sensor Layout and Specifications | [control-electronics](/control-electronics) | Sensor Hardware |
+| Controller Housing | [housing-concepts](/housing-concepts) | Controller Housing |
+| Humidification Hardware | [humidifier-concepts](/humidifier-concepts) | Humidification Hardware |
+| BVM Filtration Hardware | [bvm-filtration](/bvm-filtration) | BVM Filtration Hardware |
 
 # This document in other languages:
 | | | Language | Translations | | |
