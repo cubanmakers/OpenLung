@@ -109,12 +109,12 @@
 
 ## Mechanical Concept Coordinator(s)
 
-| Name | GitLab | Slack |
-|---|---|---|
-| Andrew Finkle | @finks | @AndrewFinkle |
-| Jonathon Kemp | @jd18 | @JonathonKemp |
-| Trevor Smale | @TrevorSmale | @TrevorSmale |
-| | | |
+| Name | GitLab |
+|---|---|
+| Andrew Finkle | @finks |
+| Jonathon Kemp | @jd18 |
+| Trevor Smale | @TrevorSmale |
+| Dave Graham | |
 
 ## Associated Issue Labeling
 
