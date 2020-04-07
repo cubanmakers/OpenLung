@@ -5,6 +5,8 @@
 
 *Note: Almost all mechanical concepts so far (April 4) are working on Stepper Motors*
 
+- The Motor unit interfaces itself with the MCU unit. The MCU unit communicates with the motor unit via step-dir interface or via SPI. (i.e. TMC5160A works over SPI)
+
 ## Motors
 The OSV-OL collaboration is currently working with NEMA-17 stepper motors as they are cheap and widely available in the market.
 
