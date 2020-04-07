@@ -45,7 +45,7 @@
 | | C6A1 | BELT | David O'Reilly (@dor2020) |
 | | C8A3 | FLAPPER | Colin O'Brien |
 | | C8A3.2 | MAKER | Colin O'Brien |
-| | C8A4 | CLAW | David O'Reilly |
+| | C8A4 | CLAW | David O'Reilly (@dor2020) |
 | | C13A1 | JAWS | Dugan Karnazes |
 
 ## How to help
