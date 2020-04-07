@@ -42,7 +42,7 @@
 
 | Image | Concept | Issue Label | Team Lead(s) |
 |---|---|---|---|
-| | C6A1 | BELT | David O'Reilly |
+| | C6A1 | BELT | David O'Reilly (@dor2020) |
 | | C8A3 | FLAPPER | Colin O'Brien |
 | | C8A3.2 | MAKER | Colin O'Brien |
 | | C8A4 | CLAW | David O'Reilly |
