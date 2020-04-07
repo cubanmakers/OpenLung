@@ -13,7 +13,7 @@
 - Definitions
 - Overview
 - Design Requirements
-- Current Concepts in Testing
+- Mechanical Concepts in Testing
 - How to Help
 - Task List
 - Tools
@@ -23,8 +23,8 @@
 
 - **Mechanical Concept (MC):** is a complete mechanical hardware product capable of delivering all the mandatory requirements for the functioning of the BMV depression. An MC can have differing depression mechanisms, design philosophies, manufacturing techniques. *(i.e. A lead screw actuation with a flat stock manufacturing method for BVM containment method would be called a "Mechanical Concept".);*
 - **Depression Mechanism (DM):** refers to the force transfer method employed to compress or depress the BVM *(i.e. Geared, Cam, or Lead Screw actuators are types of "Depression Mechanisms");*
-- **Manufacturing Technique**: refers to the anticipated method (or methods) that can be used to manufacture an MC *(i.e. 3D printing, CNC, Laser Cut, Metal stamping, etc. are types of "Manufacturing Techniques");*
-- **User**: the medical figure responsible for setting and monitoring the ventilation of a patient
+- **Manufacturing Technique (MT)**: refers to the anticipated method (or methods) that can be used to manufacture an MC *(i.e. 3D printing, CNC, Laser Cut, Metal stamping, etc. are types of "Manufacturing Techniques");*
+- **User**: the medical figure responsible for setting and monitoring the ventilation of a patient.
 
 ## Overview
 
@@ -38,7 +38,7 @@
 
 - [Work In Progress] Design Requirements are under development [here](/requirements).
 
-## Current Concepts in Testing
+## Mechanical Concepts in Testing
 
 | Image | Concept | Issue Label | Team Lead(s) |
 |---|---|---|---|
