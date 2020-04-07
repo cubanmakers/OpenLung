@@ -35,7 +35,7 @@
 
 # Project Teams
 | Team | Directory | Issue Label |
-|---|---|
+|---|---|---|
 | Mechanical Concepts | [mechanical-concepts](/mechanical-concepts) | Ventilator Hardware |
 | Controller Development | [control-electronics](/control-electronics) | Controller Hardware, Controller Software |
 | Sensor Layout and Specifications | [control-electronics](/control-electronics) | Sensor Hardware |
