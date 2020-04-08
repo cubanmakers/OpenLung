@@ -46,7 +46,9 @@
 | | [C8A3](/mechanical-concepts/ventilator-concept-8/C8A3%20(Claw)) | CLAW | David O'Reilly (@dor2020) |
 | | [C8B1](/mechanical-concepts/ventilator-concept-8/C8B1%20(Flapper)) | FLAPPER | Colin O'Brien |
 | | [C8B2](/mechanical-concepts/ventilator-concept-8/C8B2%20(Maker)) | MAKER | Colin O'Brien |
+| | [C11A1](/mechanical-concepts/ventilator-concept-11/C11A1%20(CLAMSHELL)) | CLAMSHELL | Jonathon Kemp (@jd18) |
 | | [C13A1](/mechanical-concepts/ventilator-concept-13/C13A1%20(Jaws)) | JAWS | Dugan Karnazes |
+| | [C13A1](/mechanical-concepts/ventilator-concept-16/C16A1%20(TH1)) | TH1 | Martin Boettger (@thinkandhave) |
 
 ## How to help
 
