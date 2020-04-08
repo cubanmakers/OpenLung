@@ -1,6 +1,6 @@
 # Motherboard Mockup Design
 
-##Usage
+## Usage
 
 New Motherboard designs should start by using the mockup attached in this directory.
 
