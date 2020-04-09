@@ -17,8 +17,19 @@ Nadim Conti (Open Source Ventilator - Velocity Team )
 https://www.trinamic.com/support/eval-kits/details/tmc5160-bob/
 
 ## Changelog:
-- Updated Mosfets to 60V rated ones (CSD88537ND from Texas Instruments)
-- Mind that TMC5160 must be updated to TMC5160A while placing order.
+- redo pinout as header does not support 4Amp draw from 48V rail
+- All capacitors to 63 or higher voltage rating
+- remove electrolytic cap
+- Remove 0 Ohm resistors to toggle TMC to STEP-DIR mode
+- Mosfets (voltage, and check gate below 50nC)
+- re-arrange CLOCK path to avoid splitting plane crossing (EMI-SI issues)
+
+## TODO
+- redo layout to VM and VS as above 40V overheating will occour
+- Pull back VM power plane and create low noise logic power plane
+- Moving Logic VIN closer to the micro
+- Redo V5_OUT layout to isolate gnd return path as written in datasheet
+- ADD DIAGN1 signal ?
 
 ## Known Issues:
 - Voltage on stepper motor is now limited by both MOSFETs and TMC5160A
