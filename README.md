@@ -37,7 +37,7 @@
 | Team | Directory | Issue Label |
 |---|---|---|
 | Requirements | [requirements](/requirements) | Requirements |
-| Mechanical Concepts | [mechanical-concepts](/mechanical-concepts) | ~"Mechanical Concepts" |
+| Mechanical Concepts | [mechanical-concepts](/mechanical-concepts) | [Mechanical Concepts](~"Mechanical Concepts") |
 | Control Electronics | [control-electronics](/control-electronics) | Controller Hardware, Controller Software |
 | Sensor Layout and Specifications | [control-electronics](/control-electronics) | Sensor Hardware |
 | Controller Housing | [housing-concepts](/housing-concepts) | Controller Housing |
