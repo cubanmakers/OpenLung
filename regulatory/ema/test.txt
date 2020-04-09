@@ -1,5 +1,0 @@
-## Test doc
-
-codyre testing
-
-This is a placeholder and test of git submission process
