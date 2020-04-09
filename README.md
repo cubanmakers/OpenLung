@@ -36,15 +36,15 @@
 # Project Teams
 | Team | Directory | Issue Label |
 |---|---|---|
-| Requirements | [requirements](/requirements) | Requirements |
-| Mechanical Concepts | [mechanical-concepts](/mechanical-concepts) | Mechanical Concepts |
-| Control Electronics | [control-electronics](/control-electronics) | Controller Hardware, Controller Software |
-| Sensor Layout and Specifications | [control-electronics](/control-electronics) | Sensor Hardware |
-| Controller Housing | [housing-concepts](/housing-concepts) | Controller Housing |
-| Humidifier Concepts | [humidifier-concepts](/humidifier-concepts) | Humidifier Concepts |
-| BVM Filtration | [bvm-filtration](/bvm-filtration) | BVM Filtration |
-| Regulatory | [regulatory](/regulatory) | ~Regulatory |
-| Testing | [testing](/testing) | Testing |
+| Requirements | [requirements](/requirements) | ~"Requirements" |
+| Mechanical Concepts | [mechanical-concepts](/mechanical-concepts) | ~"Mechanical Concepts" |
+| Control Electronics | [control-electronics](/control-electronics) | ~"Controller Hardware" ~"Controller Software" |
+| Sensor Layout and Specifications | [control-electronics](/control-electronics) | ~"Sensor Hardware" |
+| Controller Housing | [housing-concepts](/housing-concepts) | ~"Controller Housing" |
+| Humidifier Concepts | [humidifier-concepts](/humidifier-concepts) | ~"Humidifier Concepts" |
+| BVM Filtration | [bvm-filtration](/bvm-filtration) | ~"BVM Filtration" |
+| Regulatory | [regulatory](/regulatory) | ~"Regulatory" |
+| Testing | [testing](/testing) | ~"Testing" |
 
 
 # This document in other languages:
