@@ -36,12 +36,16 @@
 # Project Teams
 | Team | Directory | Issue Label |
 |---|---|---|
-| Mechanical Concepts | [mechanical-concepts](/mechanical-concepts) | Ventilator Hardware |
-| Controller Development | [control-electronics](/control-electronics) | Controller Hardware, Controller Software |
+| Requirements | [requirements](/requirements) | Requirements |
+| Mechanical Concepts | [mechanical-concepts](/mechanical-concepts) | [Mechanical Concepts](/issues?label_name%5B%5D=Mechanical+Concepts) |
+| Control Electronics | [control-electronics](/control-electronics) | Controller Hardware, Controller Software |
 | Sensor Layout and Specifications | [control-electronics](/control-electronics) | Sensor Hardware |
 | Controller Housing | [housing-concepts](/housing-concepts) | Controller Housing |
-| Humidification Hardware | [humidifier-concepts](/humidifier-concepts) | Humidification Hardware |
-| BVM Filtration Hardware | [bvm-filtration](/bvm-filtration) | BVM Filtration Hardware |
+| Humidifier Concepts | [humidifier-concepts](/humidifier-concepts) | Humidifier Concepts |
+| BVM Filtration | [bvm-filtration](/bvm-filtration) | BVM Filtration |
+| Regulatory | [regulatory](/regulatory) | Regulatory |
+| Testing | [testing](/testing) | Testing |
+
 
 # This document in other languages:
 | | | Language | Translations | | |
