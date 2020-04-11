@@ -15,3 +15,8 @@ Federico De Benedetti (OSV Velocity Team - INFN Milan Division)
     
 - Nominal overcurrent Fuse protection:
     - 6.3 A (FAST)
+    
+## Note:
+
+The usage of this circuit at high input voltages and high 5 or 3v3 currents without heat sinking is discouraged. 
+Disregarding the previous point may lead to permanent failure of the LDOs.
