@@ -22,4 +22,4 @@ The user interface is focused around the following elements:
 
 The startup and user steps to start ventilation can be reviewed in the following flowchart diagram:
 
-<img src='control-electronics/Electronic-Modules/User_Interface/OSV-UserInterface-Velocity-Team/UI_Mockup/USER-INTERFACE_flowchart.png' height="400"></img>
+<img src='control-electronics/Electronic-Modules/User_Interface/OSV-UserInterface-Velocity-Team/UI_Mockup/USER-INTERFACE_flowchart.png' height="900"></img>
