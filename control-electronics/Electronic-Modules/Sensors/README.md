@@ -7,7 +7,14 @@
 
 ## Sensors
 
-The OSV-OL collaboration is currently working with differential pressure-venturi effect based flow sensors and gauge pressure sensors.
+The OSV-OL collaboration is currently working with differential pressure based flow sensors and gauge pressure sensors.
+
+Absolute pressure sensors are not considered as the intrinsic nature of these sensors would lead to high errors in the airway pressure readings.
+
+As differential sensors can also be used as gauge sensors (by leaving one end open to ambient air), it is suggested to consider using only differential sensors as the higher volume could lead to lower final BOM cost.
+
+Reference FLOW-SENSOR: Sensirion SFM3000 (Intake), Sensirion SFM3200 (washable)
+
 
 More information on sensors requirements can be found in the System Design specification requirement document at the following link:
 https://docs.google.com/document/d/1OEBElTORT_hLxyU2gSYZyEBKLmrnHysd38e4w1xVEWE/edit?usp=sharing
