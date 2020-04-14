@@ -84,15 +84,11 @@ An example of closed loop functioning is here detailed:
 * [ ]  Motherboard design (Altium 20) (design ongoing...)
 * [x]  Motor Control Board Design (Altium 20)
 * [ ]  Alarm Board (Altium 20) (design ongoing...)
-* [ ]  Power Regulation Board (Altium 20) (design ongoing...)
+* [x]  Power Regulation, protection and selection Board (Altium 20) (design done)
 * [ ]  Sensor Board (Altium 20)
+* [ ]  Battery Management System Board (Altium 20)
 
 
-* [ ]  Motherboard design (KiCAD)
-* [ ]  Motor Control Board Design (KiCAD)
-* [ ]  Alarm Board (KiCAD)
-* [ ]  Power Regulation Board (KiCAD)
-* [ ]  Sensor Board (KiCAD)
 
 ## Directory structure
 - **Concept-specific-ES**: Directory into which ES designs developed for specific mechanical concepts should be placed, naming convention inside this folder must follow the same naming convention of the mechanical concept
