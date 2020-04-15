@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DC1C-A1AA";"";
+"TraceParts.PartVersion";"1.2.8";"";
+"SUPPLIER";"ZF Friedrichshafen AG";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"30-19042013-061954";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Subminiature DC";"";
+"TraceParts.InstanceId";"30-19042013-0619549AM7VWDSNVXIZJC4NUWXMFVHI";"";
+"TraceParts.PartTitle";"Subminiature DB";"";
+"OMNICLASS23";"23.35.37.00";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"CHERRY:/F_CHERRY/30-19042013-061954";"";
